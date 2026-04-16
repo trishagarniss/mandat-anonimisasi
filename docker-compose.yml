@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  db-risiko-putus-sekolah:
+    image: postgres:15
+    container_name: postgres_rsi
+    restart: always
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: password123
+      POSTGRES_DB: edurisk
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata_rsi:/var/lib/postgresql/data
+
+volumes:
+  pgdata_rsi:

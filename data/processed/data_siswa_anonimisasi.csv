@@ -1,0 +1,501 @@
+ID_Siswa,Nama_Siswa,Kelompok_Usia,Kelas,Jenis_Kelamin,Jurusan,Nilai_Akhir,Kehadiran_Persen,Jumlah_Remedial,Pernah_Tinggal_Kelas,Siswa_Bekerja,Status_Ortu,Jumlah_Saudara,Pendidikan_Ortu,Pekerjaan_Ayah,Ekonomi_Keluarga,Jarak_Ke_Sekolah,Kondisi_Rumah,Akses_Internet,Penerima_KIP,Penerima_PKH,Terdaftar_DTKS,Status_Risiko,Kelayakan_Bansos
+7dcf6a4fefc70dbe,Don* P******,16–18 th,12,Laki-laki,Kejuruan,79.2,94.8,0,0,0,Lengkap,0,SD,Pedagang,2.5 - 5 Juta,Dekat (≤2 km),Semi Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+e27f18e29084e369,Sal** P******,14–15 th,7,Perempuan,-,65.3,82.1,1,0,0,Cerai,1,SMP,Pedagang,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Wifi Rumah,1,1,1,Sedang,Perlu Ditinjau
+fb9f4d84cd4877e5,And* N******,≤ 13 th,7,Perempuan,-,68.2,79.1,2,0,0,Lengkap,0,SMP,Buruh Harian,2.5 - 5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+01693fbd7712e25f,Ren* K********,≤ 13 th,7,Perempuan,-,69.8,84.1,1,0,0,Lengkap,0,SD,Karyawan Swasta,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Tidak Ada,0,0,0,Sedang,Perlu Ditinjau
+d2317e37d544b894,Ind** S*********,16–18 th,11,Laki-laki,IPA,77.1,80.2,1,0,0,Lengkap,0,D3/S1,Tidak Bekerja,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Wifi Rumah,0,0,0,Rendah,Perlu Ditinjau
+84412dd1e6790175,Riz** L****,16–18 th,10,Laki-laki,IPS,59.3,84.9,2,1,1,Lengkap,1,SMA/SMK,Pedagang,< 1 Juta,Jauh (5–10 km),Tidak Layak Huni,Wifi Rumah,1,0,1,Tinggi,Sangat Layak
+ba8ff64843b9d686,Faj** K*****,16–18 th,11,Laki-laki,IPS,85.0,70.5,1,0,0,Lengkap,2,SD,Karyawan Swasta,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Tidak Ada,0,0,0,Sedang,Perlu Ditinjau
+759d5eb2240116b2,Cit** K*****,16–18 th,10,Perempuan,IPS,67.9,86.9,1,0,0,Lengkap,0,SMP,Petani,2.5 - 5 Juta,Sedang (2–5 km),Permanen,Wifi Rumah,0,0,0,Rendah,Tidak Layak
+43362f56c2f230bb,Eka R*****,16–18 th,11,Perempuan,Kejuruan,70.2,76.8,1,0,0,Lengkap,0,SD,Wiraswasta,< 1 Juta,Sangat Jauh (>10 km),Semi Permanen,Tidak Ada,1,0,1,Tinggi,Sangat Layak
+c608a742c05e7781,Okt* W*****,16–18 th,11,Perempuan,IPA,81.1,92.2,2,0,1,Lengkap,2,SMA/SMK,Karyawan Swasta,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Wifi Rumah,0,0,0,Rendah,Perlu Ditinjau
+38388822336b0e34,Hen*** L****,16–18 th,12,Laki-laki,IPA,67.8,77.8,3,0,0,Lengkap,0,SD,Buruh Harian,2.5 - 5 Juta,Dekat (≤2 km),Tidak Layak Huni,Tidak Ada,0,0,0,Sedang,Layak
+9d58a772e3b1defe,Ton* W******,14–15 th,9,Perempuan,-,87.7,74.7,0,0,0,Yatim,0,S2/S3,Buruh Harian,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Sedang,Layak
+021f19108976ffc2,Put** S******,16–18 th,11,Perempuan,Kejuruan,82.4,90.6,0,0,0,Lengkap,0,D3/S1,Wiraswasta,1 - 2.5 Juta,Sangat Jauh (>10 km),Permanen,Tidak Ada,0,0,0,Sedang,Perlu Ditinjau
+4feb08fb300682cd,Har** S******,16–18 th,12,Laki-laki,Kejuruan,52.2,81.4,4,0,1,Lengkap,4,SMP,Buruh Harian,2.5 - 5 Juta,Dekat (≤2 km),Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+6677d0b19e21a463,Ind** L****,14–15 th,8,Laki-laki,-,85.8,100.0,0,0,1,Cerai,3,SMA/SMK,Petani,< 1 Juta,Sangat Jauh (>10 km),Semi Permanen,Paket Data,0,0,0,Tinggi,Layak
+6719bc0e0b5371f4,Har** H******,14–15 th,9,Laki-laki,-,55.1,66.7,3,1,1,Lengkap,1,D3/S1,Petani,2.5 - 5 Juta,Sedang (2–5 km),Permanen,Wifi Rumah,1,1,1,Tinggi,Perlu Ditinjau
+84fcde1083a63e7d,Ren*** H******,16–18 th,11,Laki-laki,IPA,85.0,83.8,0,0,0,Cerai,2,SMA/SMK,Tidak Bekerja,< 1 Juta,Sedang (2–5 km),Semi Permanen,Wifi Rumah,0,0,1,Sedang,Layak
+4c50763c292d2e84,Lin* S******,14–15 th,7,Perempuan,-,93.3,96.6,1,0,0,Lengkap,1,SD,Petani,> 5 Juta,Sedang (2–5 km),Tidak Layak Huni,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+79b1313e84603fc9,Hen*** L******,≤ 13 th,8,Laki-laki,-,83.1,78.9,4,0,0,Lengkap,2,SMP,Petani,> 5 Juta,Dekat (≤2 km),Tidak Layak Huni,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+173237191b4e3982,Agu* K********,14–15 th,8,Laki-laki,-,45.1,69.7,4,1,1,Lengkap,2,D3/S1,Pedagang,1 - 2.5 Juta,Jauh (5–10 km),Permanen,Tidak Ada,0,0,0,Tinggi,Perlu Ditinjau
+9d046d0b319b019d,Yog* H******,16–18 th,12,Perempuan,Kejuruan,88.4,74.8,1,0,0,Cerai,1,SMA/SMK,Karyawan Swasta,2.5 - 5 Juta,Dekat (≤2 km),Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+1dc93113d0d97932,Ilh** U****,14–15 th,8,Laki-laki,-,99.1,62.3,0,1,0,Cerai,0,SMA/SMK,Wiraswasta,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Tidak Ada,0,0,0,Tinggi,Layak
+efb6e1dcdcf2b344,Gil*** S***,16–18 th,9,Laki-laki,-,68.2,96.6,3,0,0,Lengkap,0,D3/S1,Wiraswasta,2.5 - 5 Juta,Sedang (2–5 km),Tidak Layak Huni,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+c729d4c2976a3273,Dew* N*******,16–18 th,11,Laki-laki,Kejuruan,74.3,82.4,2,0,0,Lengkap,1,D3/S1,PNS/TNI/Polri,< 1 Juta,Dekat (≤2 km),Tidak Layak Huni,Tidak Ada,0,0,0,Sedang,Sangat Layak
+9a408542484f95a4,Teg** L****,16–18 th,11,Laki-laki,Kejuruan,53.3,78.1,4,0,0,Yatim Piatu,3,D3/S1,Pedagang,2.5 - 5 Juta,Sangat Jauh (>10 km),Permanen,Tidak Ada,0,0,0,Tinggi,Layak
+1ad89d664a5e3f86,Ayu K*****,≤ 13 th,7,Perempuan,-,76.2,58.2,1,0,1,Lengkap,1,SD,Karyawan Swasta,< 1 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Tinggi,Layak
+83b240583202d5c1,Put** S******,16–18 th,12,Laki-laki,IPA,89.4,67.7,1,0,1,Lengkap,3,SMA/SMK,Petani,1 - 2.5 Juta,Jauh (5–10 km),Permanen,Tidak Ada,0,1,1,Sedang,Layak
+bb909a0efb93985c,Wah** P******,≤ 13 th,7,Laki-laki,-,82.9,100.0,1,0,0,Piatu,7,SMA/SMK,Pedagang,< 1 Juta,Jauh (5–10 km),Permanen,Tidak Ada,1,0,1,Tinggi,Sangat Layak
+ba265276d6e75f1f,Rat** S*******,14–15 th,8,Perempuan,-,99.0,84.3,0,0,0,Cerai,0,D3/S1,Petani,2.5 - 5 Juta,Dekat (≤2 km),Permanen,Wifi Rumah,1,0,0,Rendah,Tidak Layak
+9b0a358a8f5f1e53,Rat** W*****,≤ 13 th,7,Laki-laki,-,73.1,94.4,2,0,1,Lengkap,2,SMA/SMK,Karyawan Swasta,1 - 2.5 Juta,Sangat Jauh (>10 km),Permanen,Paket Data,0,1,1,Sedang,Layak
+fa3cbae5ef836f74,Nan** S***,14–15 th,9,Perempuan,-,46.0,97.2,2,0,0,Cerai,2,SD,Buruh Harian,2.5 - 5 Juta,Dekat (≤2 km),Semi Permanen,Wifi Rumah,0,0,0,Sedang,Perlu Ditinjau
+06cfb967b52cba50,Gal** W*****,16–18 th,11,Laki-laki,IPA,73.7,74.8,3,1,1,Yatim,6,D3/S1,Wiraswasta,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Tidak Ada,0,0,0,Tinggi,Sangat Layak
+5aba78b507c90271,Ilh** F*********,14–15 th,8,Laki-laki,-,41.9,99.8,3,0,0,Lengkap,6,SMA/SMK,Pedagang,1 - 2.5 Juta,Dekat (≤2 km),Semi Permanen,Wifi Rumah,0,0,0,Sedang,Layak
+9d5317fac1bd81e0,Ilh** H******,≤ 13 th,7,Perempuan,-,64.0,98.1,3,0,0,Lengkap,2,SD,Pedagang,1 - 2.5 Juta,Jauh (5–10 km),Permanen,Wifi Rumah,0,0,0,Sedang,Perlu Ditinjau
+a675adac1d89588f,May* S*****,> 18 th,12,Perempuan,IPS,94.1,80.1,0,0,0,Lengkap,0,SMA/SMK,Pedagang,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,1,0,1,Sedang,Layak
+a4224721a2ee6d17,Bud* S*****,16–18 th,9,Perempuan,-,77.9,46.4,2,0,0,Piatu,2,SD,Petani,2.5 - 5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Sedang,Layak
+6c27ac10515c8559,Lin* W*****,14–15 th,9,Laki-laki,-,74.3,81.0,1,0,0,Cerai,0,SMP,Pedagang,> 5 Juta,Sedang (2–5 km),Permanen,Tidak Ada,0,0,0,Rendah,Tidak Layak
+0ccb78bf753fdfd1,Har** S******,≤ 13 th,7,Laki-laki,-,96.3,84.8,0,0,0,Lengkap,2,Tidak Sekolah,Buruh Harian,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Tidak Ada,0,1,1,Sedang,Layak
+3b4f0f63c6f024cc,Riz** S******,16–18 th,11,Perempuan,IPA,67.1,76.9,3,0,0,Yatim,4,SMA/SMK,Wiraswasta,> 5 Juta,Dekat (≤2 km),Permanen,Paket Data,1,0,1,Sedang,Layak
+c7d08c2d5caf0ce7,Teg** W*****,≤ 13 th,7,Laki-laki,-,88.6,80.8,0,0,0,Lengkap,1,SMA/SMK,Wiraswasta,> 5 Juta,Jauh (5–10 km),Semi Permanen,Wifi Rumah,0,0,0,Rendah,Perlu Ditinjau
+12f55ba9352d0dcc,Kur*** K*****,≤ 13 th,8,Laki-laki,-,75.2,74.5,2,1,1,Lengkap,1,SMA/SMK,Tidak Bekerja,1 - 2.5 Juta,Jauh (5–10 km),Permanen,Paket Data,1,0,1,Tinggi,Layak
+cb5868e4df588c27,Dim** S*********,14–15 th,7,Laki-laki,-,77.3,96.2,1,0,0,Lengkap,1,SMA/SMK,Meninggal,< 1 Juta,Sangat Jauh (>10 km),Semi Permanen,Paket Data,1,1,1,Sedang,Sangat Layak
+051e88df8b2ec860,Dim** H******,14–15 th,9,Laki-laki,-,55.8,85.3,2,0,0,Lengkap,1,D3/S1,Buruh Harian,2.5 - 5 Juta,Dekat (≤2 km),Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+5c4dc04271f91617,Agu* H******,≤ 13 th,7,Perempuan,-,66.4,92.4,3,1,0,Yatim,1,SMP,Meninggal,1 - 2.5 Juta,Jauh (5–10 km),Semi Permanen,Paket Data,1,1,1,Tinggi,Sangat Layak
+ebb46fdea4151aca,Ren* S*********,16–18 th,11,Laki-laki,IPA,55.4,99.1,4,1,0,Lengkap,2,SD,Tidak Bekerja,> 5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+26d919af86d2d7cf,May* S******,16–18 th,12,Perempuan,IPS,66.9,60.5,1,0,0,Yatim,4,D3/S1,Pedagang,1 - 2.5 Juta,Jauh (5–10 km),Permanen,Paket Data,0,0,0,Sedang,Layak
+4a57e0586458a5a4,Nov* P******,14–15 th,10,Laki-laki,IPS,80.3,76.0,2,0,0,Lengkap,4,SD,Karyawan Swasta,1 - 2.5 Juta,Jauh (5–10 km),Permanen,Paket Data,1,0,1,Sedang,Layak
+beb5a2c8a7cf9a20,Kur*** W*****,≤ 13 th,7,Perempuan,-,57.3,79.2,4,0,0,Lengkap,0,S2/S3,PNS/TNI/Polri,< 1 Juta,Sedang (2–5 km),Permanen,Paket Data,1,1,1,Sedang,Layak
+e5159c57fba58375,Dew* S******,16–18 th,11,Perempuan,IPA,99.9,98.3,0,0,0,Yatim Piatu,3,D3/S1,Tidak Bekerja,> 5 Juta,Sedang (2–5 km),Semi Permanen,Tidak Ada,0,0,0,Sedang,Layak
+ee54678cdfb57da6,Rat** P******,16–18 th,11,Laki-laki,Kejuruan,78.4,84.9,1,0,0,Lengkap,2,SMA/SMK,Pedagang,1 - 2.5 Juta,Jauh (5–10 km),Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+88bfccbbe1e5e666,Wah** S*****,16–18 th,12,Perempuan,IPS,70.3,91.2,2,1,0,Lengkap,0,S2/S3,Meninggal,1 - 2.5 Juta,Jauh (5–10 km),Semi Permanen,Wifi Rumah,0,0,0,Sedang,Perlu Ditinjau
+249fd9d4aa56c1c3,Yog* S*******,16–18 th,9,Perempuan,-,81.6,60.6,1,0,1,Lengkap,0,SD,Tidak Bekerja,2.5 - 5 Juta,Dekat (≤2 km),Semi Permanen,Tidak Ada,0,0,0,Sedang,Perlu Ditinjau
+a52aaa6b15d86752,Sit* W******,16–18 th,11,Perempuan,IPA,61.4,85.5,3,0,0,Yatim,0,SMP,Meninggal,1 - 2.5 Juta,Dekat (≤2 km),Tidak Layak Huni,Paket Data,0,0,1,Tinggi,Sangat Layak
+3ad79d2922c243b8,Ari* N******,16–18 th,11,Perempuan,IPA,73.4,97.8,1,0,0,Lengkap,4,SMA/SMK,Wiraswasta,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Wifi Rumah,0,1,1,Rendah,Layak
+a1fb5a98d5ef48b8,Gal** R*****,16–18 th,11,Perempuan,IPS,66.5,90.2,2,0,1,Lengkap,2,SMP,Petani,1 - 2.5 Juta,Sangat Jauh (>10 km),Semi Permanen,Paket Data,1,1,1,Sedang,Perlu Ditinjau
+987ad74b9d04d003,Eka S******,16–18 th,11,Perempuan,Kejuruan,91.3,90.0,1,0,0,Lengkap,2,D3/S1,Buruh Harian,2.5 - 5 Juta,Jauh (5–10 km),Permanen,Paket Data,0,0,0,Rendah,Tidak Layak
+20016f391ae1d5c7,Shi*** H******,≤ 13 th,8,Laki-laki,-,57.9,85.0,2,0,0,Lengkap,0,SD,Karyawan Swasta,2.5 - 5 Juta,Dekat (≤2 km),Tidak Layak Huni,Tidak Ada,0,0,0,Sedang,Perlu Ditinjau
+7db3c89d47711c83,Wah** S***,14–15 th,8,Laki-laki,-,73.4,84.2,4,0,0,Cerai,2,SMA/SMK,Wiraswasta,1 - 2.5 Juta,Dekat (≤2 km),Semi Permanen,Paket Data,0,1,1,Sedang,Layak
+1b639e1ba7cefc69,Fan** L******,14–15 th,9,Laki-laki,-,74.6,64.8,3,0,0,Lengkap,0,SMA/SMK,Buruh Harian,1 - 2.5 Juta,Jauh (5–10 km),Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+b2f3d5dc127b6b19,Jok* R*****,14–15 th,7,Laki-laki,-,77.2,72.1,2,1,0,Lengkap,1,SMA/SMK,Buruh Harian,1 - 2.5 Juta,Dekat (≤2 km),Tidak Layak Huni,Wifi Rumah,0,1,1,Sedang,Sangat Layak
+07756cb0d38c3f58,Nov* S******,16–18 th,11,Laki-laki,Kejuruan,65.6,86.3,3,0,1,Lengkap,1,SMP,Tidak Bekerja,< 1 Juta,Sedang (2–5 km),Permanen,Paket Data,1,1,1,Sedang,Layak
+f5a2cbc125dfb358,Teg** B******,16–18 th,12,Laki-laki,IPA,60.3,74.9,3,0,0,Lengkap,0,SMP,Petani,2.5 - 5 Juta,Dekat (≤2 km),Semi Permanen,Tidak Ada,0,0,0,Sedang,Perlu Ditinjau
+ea01c428b6600fb5,Cit** S******,14–15 th,7,Perempuan,-,64.8,87.7,2,0,0,Piatu,3,D3/S1,Buruh Harian,> 5 Juta,Sangat Jauh (>10 km),Semi Permanen,Tidak Ada,0,0,0,Sedang,Layak
+50ab9a6a459bfc7a,Fan** R*****,16–18 th,12,Laki-laki,IPS,77.9,90.8,2,0,0,Lengkap,0,SD,Karyawan Swasta,< 1 Juta,Dekat (≤2 km),Permanen,Wifi Rumah,0,0,0,Rendah,Perlu Ditinjau
+7c34b1d3cb14e305,Nan** H******,≤ 13 th,7,Laki-laki,-,68.0,100.0,1,0,1,Yatim Piatu,2,D3/S1,Petani,1 - 2.5 Juta,Jauh (5–10 km),Semi Permanen,Paket Data,0,0,0,Sedang,Sangat Layak
+38d664fac68ba012,Dew* S*****,14–15 th,9,Perempuan,-,83.6,94.1,2,0,0,Lengkap,1,SMA/SMK,Buruh Harian,< 1 Juta,Sedang (2–5 km),Permanen,Paket Data,1,1,1,Rendah,Layak
+3ae68f265a4e9cb6,Put** K********,16–18 th,11,Laki-laki,IPS,82.5,86.3,2,0,0,Lengkap,1,D3/S1,Karyawan Swasta,2.5 - 5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Rendah,Tidak Layak
+0453803073826861,Rin* P******,16–18 th,11,Perempuan,IPS,43.0,93.6,3,0,0,Piatu,0,SMA/SMK,Pedagang,2.5 - 5 Juta,Dekat (≤2 km),Permanen,Paket Data,0,0,0,Sedang,Layak
+ebeb81a027a9041d,And* K********,14–15 th,10,Laki-laki,Kejuruan,76.5,95.3,1,0,0,Lengkap,0,SMP,Pedagang,1 - 2.5 Juta,Dekat (≤2 km),Semi Permanen,Paket Data,0,0,0,Rendah,Layak
+fc4f2f41994a0a69,Cit** H******,16–18 th,12,Perempuan,Kejuruan,100.0,79.4,0,0,0,Cerai,4,SMA/SMK,Pedagang,< 1 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Sedang,Layak
+4f78145e8faccd20,Wul** S******,≤ 13 th,7,Perempuan,-,87.5,79.6,2,0,0,Yatim Piatu,0,D3/S1,Petani,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Tidak Ada,0,0,0,Sedang,Layak
+2115e0848dffd788,Dew* S*********,≤ 13 th,7,Laki-laki,-,81.4,84.0,1,0,0,Lengkap,3,SMA/SMK,Pedagang,< 1 Juta,Dekat (≤2 km),Semi Permanen,Paket Data,1,0,1,Sedang,Sangat Layak
+e017f5f5f1ce7a36,Faj** H******,≤ 13 th,8,Laki-laki,-,59.4,78.5,3,0,0,Lengkap,7,D3/S1,Pedagang,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Wifi Rumah,0,0,0,Sedang,Perlu Ditinjau
+d6b4609e890451c4,Fit** S******,16–18 th,10,Perempuan,Kejuruan,82.3,95.3,2,0,0,Cerai,0,SMA/SMK,Karyawan Swasta,2.5 - 5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Rendah,Tidak Layak
+4abeed8b3fd7c2c7,Har** B******,14–15 th,8,Perempuan,-,80.5,75.1,1,0,1,Lengkap,0,SD,Buruh Harian,< 1 Juta,Sedang (2–5 km),Permanen,Tidak Ada,0,0,1,Sedang,Sangat Layak
+9c37489c6b0ca7f6,Put** H******,14–15 th,8,Perempuan,-,72.6,97.4,3,0,0,Lengkap,2,SMP,Buruh Harian,< 1 Juta,Sedang (2–5 km),Permanen,Paket Data,1,0,1,Sedang,Layak
+0754d1337e3efc2e,May* F*********,14–15 th,8,Perempuan,-,78.6,77.8,1,0,1,Lengkap,5,D3/S1,Karyawan Swasta,> 5 Juta,Jauh (5–10 km),Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+d15efcad01eb5315,Sal** L****,> 18 th,12,Laki-laki,IPS,93.1,88.0,0,0,0,Lengkap,4,SMP,Pedagang,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Paket Data,0,0,0,Rendah,Layak
+a51a438b93cc9602,Kur*** R*****,16–18 th,12,Laki-laki,IPA,61.5,83.8,1,1,0,Cerai,1,D3/S1,Pedagang,> 5 Juta,Sedang (2–5 km),Tidak Layak Huni,Tidak Ada,0,0,0,Sedang,Perlu Ditinjau
+01c4759f9dcd9442,Har** H******,14–15 th,9,Laki-laki,-,58.5,71.4,2,0,0,Lengkap,2,D3/S1,Buruh Harian,1 - 2.5 Juta,Sangat Jauh (>10 km),Semi Permanen,Paket Data,0,0,0,Sedang,Layak
+a5744925a4e5cd6c,Okt* S******,14–15 th,9,Perempuan,-,84.4,86.2,0,0,1,Lengkap,0,SMP,Buruh Harian,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+a0130fd11dba286d,Bay* P******,14–15 th,8,Perempuan,-,78.3,89.0,1,0,0,Lengkap,6,SD,Buruh Harian,2.5 - 5 Juta,Sedang (2–5 km),Permanen,Tidak Ada,1,1,1,Sedang,Layak
+a66f4fe22b3790a5,Dia* K********,16–18 th,10,Laki-laki,Kejuruan,82.1,85.9,2,0,1,Lengkap,5,SMA/SMK,Pedagang,< 1 Juta,Sangat Jauh (>10 km),Permanen,Tidak Ada,0,0,0,Tinggi,Layak
+cf7cb3afe1ce8b60,Okt* R*****,≤ 13 th,7,Laki-laki,-,77.8,67.2,1,0,0,Lengkap,0,SMP,Karyawan Swasta,1 - 2.5 Juta,Dekat (≤2 km),Semi Permanen,Paket Data,0,1,1,Rendah,Layak
+9789edd08c6c0749,Fan** W******,> 18 th,12,Laki-laki,IPS,64.6,100.0,2,1,1,Cerai,1,D3/S1,Buruh Harian,1 - 2.5 Juta,Jauh (5–10 km),Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+f09e2423d2710bc7,Faj** U****,14–15 th,10,Laki-laki,IPS,78.6,82.1,1,0,1,Lengkap,0,SMA/SMK,Pedagang,< 1 Juta,Sangat Jauh (>10 km),Permanen,Paket Data,1,0,0,Sedang,Layak
+5a5933ab5eec564f,Wul** P******,16–18 th,11,Perempuan,IPA,57.9,74.0,2,0,0,Cerai,0,SMA/SMK,Buruh Harian,2.5 - 5 Juta,Sedang (2–5 km),Tidak Layak Huni,Wifi Rumah,1,1,1,Sedang,Layak
+5a8a79baa1f084ec,Ari* S******,16–18 th,12,Perempuan,IPA,71.4,98.6,2,0,0,Piatu,3,D3/S1,Tidak Bekerja,1 - 2.5 Juta,Jauh (5–10 km),Permanen,Tidak Ada,1,0,1,Sedang,Sangat Layak
+aa4eed93571b0836,Nan** N*******,16–18 th,12,Perempuan,IPS,75.1,91.9,2,0,0,Lengkap,1,SMP,Karyawan Swasta,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+df887e8232525481,Bag** P******,14–15 th,9,Laki-laki,-,68.3,69.4,3,0,0,Lengkap,0,SMA/SMK,Pedagang,< 1 Juta,Dekat (≤2 km),Tidak Layak Huni,Tidak Ada,0,0,1,Tinggi,Sangat Layak
+e580800137fb5cb0,And* H******,≤ 13 th,7,Laki-laki,-,96.4,73.6,1,1,1,Lengkap,1,SMP,Buruh Harian,> 5 Juta,Sedang (2–5 km),Semi Permanen,Wifi Rumah,0,0,0,Sedang,Perlu Ditinjau
+0fbe89735745dd3c,Kur*** N******,≤ 13 th,7,Perempuan,-,49.5,81.9,6,0,0,Lengkap,6,SMP,Wiraswasta,2.5 - 5 Juta,Jauh (5–10 km),Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+33176de85ea1c7e7,Yul* S******,16–18 th,11,Perempuan,IPA,64.8,90.5,3,0,0,Yatim,1,SMA/SMK,Tidak Bekerja,2.5 - 5 Juta,Jauh (5–10 km),Semi Permanen,Wifi Rumah,0,0,0,Sedang,Layak
+f217eaa02a59a42b,Sal** N******,16–18 th,11,Perempuan,Kejuruan,60.8,87.8,5,0,0,Piatu,1,D3/S1,Karyawan Swasta,1 - 2.5 Juta,Sangat Jauh (>10 km),Permanen,Paket Data,0,0,1,Tinggi,Sangat Layak
+cacf99bb7d614397,Sal** W*****,16–18 th,12,Perempuan,IPS,61.3,95.9,2,1,1,Lengkap,0,SMP,Wiraswasta,< 1 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Tinggi,Layak
+93a0bbfe8917d1a9,Fit** S***,≤ 13 th,8,Laki-laki,-,66.6,90.7,4,0,0,Lengkap,6,SMA/SMK,Wiraswasta,> 5 Juta,Jauh (5–10 km),Semi Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+164f7d872649f0a1,Ind** U****,16–18 th,9,Perempuan,-,57.1,96.5,3,1,1,Piatu,3,SMA/SMK,Pedagang,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Wifi Rumah,0,0,0,Tinggi,Layak
+3e968e3a98443105,Faj** H******,14–15 th,9,Laki-laki,-,83.2,86.5,1,0,0,Piatu,0,SMP,Pedagang,1 - 2.5 Juta,Jauh (5–10 km),Tidak Layak Huni,Wifi Rumah,0,0,0,Sedang,Sangat Layak
+ff18370062e60b05,Kur*** P******,16–18 th,12,Laki-laki,Kejuruan,64.7,75.5,2,0,0,Lengkap,0,SMP,Buruh Harian,2.5 - 5 Juta,Sedang (2–5 km),Tidak Layak Huni,Wifi Rumah,0,0,0,Rendah,Layak
+52b335b554289704,Nis* S*******,16–18 th,10,Laki-laki,IPS,76.2,82.7,1,0,0,Lengkap,0,D3/S1,Buruh Harian,> 5 Juta,Sedang (2–5 km),Tidak Layak Huni,Paket Data,1,0,0,Rendah,Perlu Ditinjau
+f06ea8ad4e5c815e,Fan** S******,14–15 th,8,Laki-laki,-,65.6,81.8,2,0,0,Lengkap,0,SMA/SMK,Buruh Harian,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+21c536edf38b59d7,Ind** A*****,> 18 th,12,Perempuan,Kejuruan,65.7,53.9,2,0,0,Piatu,1,SMA/SMK,Petani,> 5 Juta,Dekat (≤2 km),Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+66f385a25aa650a2,Jok* K*****,≤ 13 th,8,Laki-laki,-,97.3,80.1,1,0,0,Lengkap,4,SMA/SMK,Karyawan Swasta,> 5 Juta,Dekat (≤2 km),Permanen,Paket Data,1,0,0,Rendah,Perlu Ditinjau
+0fc3138e74b0bb1b,Nan** S*******,14–15 th,8,Laki-laki,-,86.1,87.0,1,0,0,Lengkap,1,Tidak Sekolah,Karyawan Swasta,< 1 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,1,0,1,Sedang,Sangat Layak
+33ced86b36cd7544,Lin* N*******,14–15 th,8,Perempuan,-,46.5,80.2,4,0,0,Lengkap,3,SMA/SMK,Wiraswasta,1 - 2.5 Juta,Dekat (≤2 km),Tidak Layak Huni,Paket Data,0,0,0,Tinggi,Layak
+245ff674cfcd5267,Meg* S*****,> 18 th,12,Laki-laki,IPA,47.7,74.8,5,0,0,Lengkap,1,SMA/SMK,Wiraswasta,2.5 - 5 Juta,Jauh (5–10 km),Permanen,Wifi Rumah,0,0,0,Sedang,Tidak Layak
+fb6a9a2a85cc8000,Riz** W*****,14–15 th,9,Laki-laki,-,83.4,92.8,1,0,0,Lengkap,2,SMA/SMK,Buruh Harian,< 1 Juta,Jauh (5–10 km),Tidak Layak Huni,Wifi Rumah,1,1,1,Sedang,Sangat Layak
+ea8784ac14d142d6,Rat** B******,14–15 th,9,Perempuan,-,67.1,74.6,3,0,0,Yatim Piatu,2,SMP,Tidak Bekerja,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Tidak Ada,1,0,1,Tinggi,Sangat Layak
+28aaf3d6f3373b84,Faj** H******,14–15 th,8,Laki-laki,-,51.9,89.0,4,1,0,Lengkap,0,SD,Buruh Harian,< 1 Juta,Dekat (≤2 km),Tidak Layak Huni,Paket Data,0,0,1,Tinggi,Sangat Layak
+c9e059d26a2ae904,Yul* A*****,14–15 th,10,Laki-laki,IPA,82.3,68.4,3,0,1,Lengkap,1,SD,Buruh Harian,1 - 2.5 Juta,Sangat Jauh (>10 km),Tidak Layak Huni,Wifi Rumah,0,0,1,Tinggi,Sangat Layak
+ae4c09b5ec632395,Nov* S******,≤ 13 th,7,Laki-laki,-,72.7,100.0,1,0,0,Lengkap,2,D3/S1,Buruh Harian,1 - 2.5 Juta,Sangat Jauh (>10 km),Permanen,Wifi Rumah,0,0,0,Rendah,Perlu Ditinjau
+25b91a8967893ed0,Nov* H******,> 18 th,12,Laki-laki,Kejuruan,75.4,81.2,2,0,1,Lengkap,0,SMA/SMK,Karyawan Swasta,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Tidak Ada,1,0,1,Sedang,Layak
+02a8f0d7447232e6,Bay* U****,14–15 th,7,Perempuan,-,82.4,79.7,0,0,0,Lengkap,1,SMA/SMK,Buruh Harian,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+5b082b162ea11bd3,Sit* S******,14–15 th,10,Perempuan,IPS,52.6,96.6,3,1,0,Lengkap,1,SD,Petani,< 1 Juta,Sedang (2–5 km),Permanen,Paket Data,1,0,1,Sedang,Layak
+897c342d4b8f731c,Rin* S******,> 18 th,12,Perempuan,IPS,51.8,80.0,4,0,0,Lengkap,7,Tidak Sekolah,Buruh Harian,> 5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+dfefe5d43fd19a74,Eka H******,14–15 th,8,Perempuan,-,93.5,100.0,2,0,0,Lengkap,1,SMA/SMK,Pedagang,> 5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+5c9cc7eb8a614a48,Fit** S******,14–15 th,9,Perempuan,-,53.6,86.5,2,0,0,Lengkap,3,SMA/SMK,Pedagang,< 1 Juta,Sedang (2–5 km),Tidak Layak Huni,Tidak Ada,1,1,1,Tinggi,Sangat Layak
+95ffc9f70854801d,Riz** P******,≤ 13 th,7,Laki-laki,-,55.5,81.6,4,0,1,Lengkap,1,SMA/SMK,Karyawan Swasta,> 5 Juta,Jauh (5–10 km),Semi Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+a8eebfe7861c2d97,Gal** K********,16–18 th,11,Perempuan,Kejuruan,61.1,82.8,3,0,0,Piatu,2,SMP,Petani,1 - 2.5 Juta,Sangat Jauh (>10 km),Permanen,Paket Data,1,0,0,Sedang,Layak
+94ea51fbc28d17ad,Yul* S******,16–18 th,11,Perempuan,Kejuruan,100.0,98.3,0,0,1,Piatu,1,SMA/SMK,Buruh Harian,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Tidak Ada,0,0,0,Sedang,Layak
+2ad6a3d4eed5dd67,Jok* B******,16–18 th,10,Perempuan,IPA,78.0,83.9,2,0,0,Lengkap,3,SD,Petani,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+49114a260386292d,Nis* N*******,14–15 th,8,Perempuan,-,83.8,88.5,3,0,0,Lengkap,1,SD,Buruh Harian,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+1ea99f28f28e2fd0,Yul* K*****,≤ 13 th,7,Laki-laki,-,76.0,86.0,1,0,1,Piatu,1,SMA/SMK,Buruh Harian,2.5 - 5 Juta,Sangat Jauh (>10 km),Semi Permanen,Paket Data,0,0,0,Sedang,Layak
+f144572c011f907b,Bay* S******,14–15 th,8,Laki-laki,-,64.3,85.1,2,0,0,Lengkap,1,SMP,Buruh Harian,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Wifi Rumah,0,0,0,Rendah,Perlu Ditinjau
+97d4a5308780d027,Yul* U****,≤ 13 th,7,Laki-laki,-,80.7,91.8,0,0,0,Yatim,1,SMP,Petani,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Wifi Rumah,1,0,1,Rendah,Sangat Layak
+2ef66175e57e3971,Wah** S*********,14–15 th,10,Laki-laki,IPA,53.5,80.6,3,0,0,Piatu,0,SMA/SMK,Karyawan Swasta,< 1 Juta,Jauh (5–10 km),Permanen,Paket Data,1,0,1,Tinggi,Sangat Layak
+e1abca2906f29c05,Eka P******,16–18 th,10,Perempuan,Kejuruan,54.2,81.7,4,1,0,Lengkap,0,SMA/SMK,PNS/TNI/Polri,< 1 Juta,Sangat Jauh (>10 km),Semi Permanen,Paket Data,1,1,1,Tinggi,Layak
+a426f101932cfadf,Dia* P******,16–18 th,11,Perempuan,Kejuruan,84.6,72.1,1,0,1,Lengkap,0,D3/S1,Wiraswasta,< 1 Juta,Jauh (5–10 km),Permanen,Tidak Ada,1,0,1,Tinggi,Layak
+bd7c5f76c32d3efc,Bay* B******,14–15 th,8,Laki-laki,-,55.1,84.7,4,0,1,Piatu,3,SMA/SMK,Tidak Bekerja,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Tidak Ada,0,0,0,Tinggi,Layak
+84b530484d3d0200,Bud* S*******,> 18 th,12,Laki-laki,IPS,69.2,64.1,3,0,0,Lengkap,0,SD,PNS/TNI/Polri,< 1 Juta,Sedang (2–5 km),Permanen,Wifi Rumah,1,1,1,Sedang,Layak
+cb2908766f64b3ff,Lin* S*********,16–18 th,11,Laki-laki,IPS,70.8,87.9,2,0,0,Lengkap,0,SMP,Pedagang,1 - 2.5 Juta,Sangat Jauh (>10 km),Tidak Layak Huni,Paket Data,1,1,1,Sedang,Sangat Layak
+de8e5da6cdbbc2d5,Put** H******,14–15 th,8,Laki-laki,-,65.9,79.0,2,0,1,Lengkap,2,S2/S3,Petani,> 5 Juta,Dekat (≤2 km),Permanen,Tidak Ada,0,0,0,Sedang,Tidak Layak
+09e4330cdb12b201,Riz** H******,16–18 th,11,Laki-laki,Kejuruan,43.5,87.6,3,0,0,Lengkap,1,SMA/SMK,Petani,> 5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,1,0,0,Sedang,Tidak Layak
+d2d26c8a989cb68a,Dim** W*****,16–18 th,12,Laki-laki,IPS,67.0,73.1,1,0,1,Cerai,1,SMA/SMK,Tidak Bekerja,1 - 2.5 Juta,Dekat (≤2 km),Semi Permanen,Paket Data,1,0,0,Sedang,Perlu Ditinjau
+5f78c8c6996656af,Agu* S***,16–18 th,9,Perempuan,-,62.1,60.6,3,1,0,Cerai,0,Tidak Sekolah,PNS/TNI/Polri,1 - 2.5 Juta,Dekat (≤2 km),Semi Permanen,Paket Data,0,0,0,Tinggi,Perlu Ditinjau
+f36b0806e8526969,Hen*** S*********,14–15 th,9,Laki-laki,-,75.9,80.4,2,0,0,Yatim Piatu,5,SMA/SMK,Buruh Harian,> 5 Juta,Sedang (2–5 km),Tidak Layak Huni,Paket Data,0,0,0,Sedang,Sangat Layak
+07e82b6257247bea,Dew* F*********,14–15 th,9,Laki-laki,-,75.9,71.5,1,0,0,Lengkap,3,Tidak Sekolah,Karyawan Swasta,2.5 - 5 Juta,Jauh (5–10 km),Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+98adbb8a9fc13ccc,Sit* U****,14–15 th,9,Perempuan,-,75.0,64.6,0,0,0,Lengkap,3,SMA/SMK,Petani,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Tidak Ada,1,1,1,Sedang,Layak
+a78dc3bbc0509bf3,Ilh** S******,≤ 13 th,7,Laki-laki,-,64.9,91.8,3,0,0,Lengkap,1,D3/S1,Petani,< 1 Juta,Jauh (5–10 km),Permanen,Paket Data,1,0,1,Sedang,Layak
+c4c5227543425906,Sit* S******,14–15 th,9,Perempuan,-,78.5,100.0,1,0,0,Lengkap,2,D3/S1,Pedagang,2.5 - 5 Juta,Sedang (2–5 km),Semi Permanen,Tidak Ada,0,0,0,Rendah,Perlu Ditinjau
+51ca85550c40bdaa,Ind** S******,16–18 th,12,Perempuan,IPA,53.7,74.3,3,0,1,Lengkap,0,SMA/SMK,Pedagang,2.5 - 5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Sedang,Tidak Layak
+75924658eb9fe7fd,Fit** H******,16–18 th,10,Laki-laki,IPS,44.7,82.7,4,0,0,Yatim Piatu,0,SMA/SMK,Wiraswasta,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Tidak Ada,1,0,0,Tinggi,Layak
+a15a9aafa42d8054,Bay* S*******,16–18 th,10,Laki-laki,Kejuruan,41.8,78.5,1,0,0,Yatim,0,D3/S1,Pedagang,2.5 - 5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Sedang,Layak
+8afaa840acc3af8e,Eka S***,14–15 th,7,Laki-laki,-,64.8,75.9,1,0,0,Lengkap,1,SMA/SMK,Buruh Harian,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Rendah,Layak
+8273de576c02662a,Sit* P******,16–18 th,9,Laki-laki,-,63.9,89.8,5,1,0,Lengkap,1,SD,Petani,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+563fae43679aa518,Hen*** H******,14–15 th,9,Laki-laki,-,83.9,93.3,1,0,0,Lengkap,1,SMA/SMK,Pedagang,< 1 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,1,1,1,Sedang,Sangat Layak
+66ab7d542851afcb,Lin* S***,14–15 th,9,Perempuan,-,62.6,74.4,0,1,1,Lengkap,0,SMP,Buruh Harian,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,1,1,Tinggi,Layak
+e39cec79822e2b4e,Rin* P******,16–18 th,11,Laki-laki,IPA,74.6,84.3,0,0,0,Cerai,1,SMA/SMK,Pedagang,2.5 - 5 Juta,Sedang (2–5 km),Permanen,Wifi Rumah,0,0,0,Rendah,Tidak Layak
+34cd4e10928c0204,Riz** H******,14–15 th,8,Laki-laki,-,82.8,99.2,4,0,0,Lengkap,2,SMA/SMK,Karyawan Swasta,1 - 2.5 Juta,Sangat Jauh (>10 km),Permanen,Wifi Rumah,0,0,0,Sedang,Perlu Ditinjau
+9ea08bd6862ee529,Okt* U****,16–18 th,11,Laki-laki,IPA,62.2,90.4,2,0,0,Yatim Piatu,1,SMA/SMK,Buruh Harian,1 - 2.5 Juta,Jauh (5–10 km),Semi Permanen,Paket Data,0,0,0,Sedang,Layak
+38601b00adac2768,Tia** S*********,≤ 13 th,8,Perempuan,-,77.7,93.6,3,0,0,Lengkap,2,SMP,Petani,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Sedang,Layak
+b696160bd3094c5a,Dew* U****,14–15 th,9,Laki-laki,-,85.3,99.8,1,0,1,Lengkap,0,SD,Buruh Harian,2.5 - 5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+3d150400d364a75d,Jok* W*****,14–15 th,9,Laki-laki,-,50.2,98.7,2,1,0,Cerai,3,SMA/SMK,Buruh Harian,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Wifi Rumah,0,0,1,Sedang,Layak
+d353b44045e25b39,Yog* F*********,16–18 th,11,Laki-laki,IPA,72.3,93.8,3,0,0,Lengkap,1,D3/S1,Buruh Harian,< 1 Juta,Sedang (2–5 km),Semi Permanen,Tidak Ada,0,0,0,Sedang,Layak
+da42cb9d0b5e0502,Sal** S******,16–18 th,11,Perempuan,IPS,61.9,85.2,0,1,0,Lengkap,0,SMA/SMK,Buruh Harian,> 5 Juta,Sedang (2–5 km),Tidak Layak Huni,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+dd3cf2ba5fddbfbe,Ind** W******,14–15 th,8,Laki-laki,-,53.7,79.5,1,1,1,Lengkap,0,SMP,Buruh Harian,2.5 - 5 Juta,Dekat (≤2 km),Semi Permanen,Tidak Ada,0,0,0,Sedang,Perlu Ditinjau
+416baef2ea13fe48,Tia** W*****,16–18 th,10,Perempuan,IPS,50.5,85.0,3,0,0,Lengkap,1,D3/S1,PNS/TNI/Polri,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+8a3440fc0343a89c,Bay* F*********,14–15 th,8,Perempuan,-,57.2,74.9,2,0,0,Cerai,3,D3/S1,Tidak Bekerja,2.5 - 5 Juta,Dekat (≤2 km),Permanen,Wifi Rumah,0,0,0,Sedang,Perlu Ditinjau
+3aefe83542706a7c,Dew* S******,16–18 th,11,Laki-laki,IPA,75.7,62.2,1,0,0,Lengkap,1,SMP,Karyawan Swasta,2.5 - 5 Juta,Sedang (2–5 km),Tidak Layak Huni,Paket Data,0,0,0,Sedang,Layak
+3971de593bf9a05d,Sal** N*******,16–18 th,12,Perempuan,IPA,52.6,83.3,4,1,0,Cerai,0,Tidak Sekolah,Pedagang,2.5 - 5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Tinggi,Tidak Layak
+dd1f1cf1d627cc0f,Ren*** S******,16–18 th,11,Laki-laki,IPS,63.8,86.5,2,0,0,Lengkap,3,SMA/SMK,Buruh Harian,< 1 Juta,Sangat Jauh (>10 km),Tidak Layak Huni,Wifi Rumah,0,0,1,Tinggi,Sangat Layak
+ce94acd4ceadb41a,Rat** W*****,> 18 th,12,Perempuan,IPS,83.9,75.9,2,0,0,Lengkap,2,D3/S1,Karyawan Swasta,2.5 - 5 Juta,Dekat (≤2 km),Tidak Layak Huni,Wifi Rumah,0,0,0,Rendah,Perlu Ditinjau
+435d1f6feefad00c,Shi*** L****,14–15 th,7,Perempuan,-,77.1,81.6,2,0,0,Yatim,1,D3/S1,Wiraswasta,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Wifi Rumah,0,0,0,Sedang,Layak
+4f2da78378a27c2d,And* S*****,16–18 th,11,Perempuan,IPA,64.6,82.5,3,0,0,Lengkap,1,D3/S1,Buruh Harian,1 - 2.5 Juta,Sangat Jauh (>10 km),Tidak Layak Huni,Paket Data,0,0,0,Sedang,Layak
+285d3ae7de6e0a13,Tia** P******,≤ 13 th,7,Laki-laki,-,91.7,99.8,0,0,0,Lengkap,0,SMA/SMK,Pedagang,> 5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Rendah,Tidak Layak
+d83223339bc9524c,Cit** P******,14–15 th,10,Perempuan,IPS,93.5,78.1,0,0,0,Lengkap,1,SMA/SMK,Tidak Bekerja,2.5 - 5 Juta,Jauh (5–10 km),Tidak Layak Huni,Paket Data,0,0,0,Sedang,Layak
+20bb2d6a114a7260,Teg** N******,14–15 th,8,Laki-laki,-,72.2,99.1,3,0,0,Lengkap,1,Tidak Sekolah,PNS/TNI/Polri,1 - 2.5 Juta,Sangat Jauh (>10 km),Permanen,Wifi Rumah,1,1,1,Sedang,Layak
+e42684eeeb06bd34,And* S***,16–18 th,12,Laki-laki,IPS,40.3,54.9,3,0,0,Lengkap,7,SMP,Petani,< 1 Juta,Dekat (≤2 km),Permanen,Paket Data,1,1,1,Tinggi,Sangat Layak
+eb8e09fa6a6726c0,Fan** P******,14–15 th,8,Laki-laki,-,83.8,97.8,1,0,1,Lengkap,1,SMA/SMK,Buruh Harian,> 5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+e788e0e7fcbf9e91,Yog* B******,≤ 13 th,7,Perempuan,-,42.2,98.5,5,0,0,Lengkap,1,SMA/SMK,Pedagang,< 1 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,1,0,1,Tinggi,Sangat Layak
+5b2e7a43792624e0,Nan** P******,16–18 th,12,Perempuan,IPS,90.1,94.5,1,0,0,Lengkap,1,SMA/SMK,Wiraswasta,< 1 Juta,Dekat (≤2 km),Permanen,Wifi Rumah,1,0,1,Rendah,Layak
+141fba8fcc885347,Raf* S***,14–15 th,8,Laki-laki,-,88.2,62.3,0,1,0,Piatu,4,SMA/SMK,Pedagang,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Wifi Rumah,1,0,1,Tinggi,Sangat Layak
+946985cbe736ee37,Rat** S******,16–18 th,11,Laki-laki,IPS,93.4,93.3,1,0,1,Lengkap,2,SMP,Wiraswasta,> 5 Juta,Jauh (5–10 km),Permanen,Paket Data,0,0,0,Rendah,Tidak Layak
+507b75c4cc8877e7,Wul** A*****,14–15 th,9,Laki-laki,-,77.6,84.2,1,0,0,Yatim,1,SMA/SMK,Petani,2.5 - 5 Juta,Sedang (2–5 km),Permanen,Wifi Rumah,0,0,0,Rendah,Perlu Ditinjau
+dea9e82c897c94a3,Fan** H******,≤ 13 th,7,Perempuan,-,66.0,55.9,3,0,0,Lengkap,2,SD,Wiraswasta,1 - 2.5 Juta,Jauh (5–10 km),Permanen,Paket Data,1,1,1,Tinggi,Layak
+dc3547e471345012,Ayu S******,14–15 th,8,Laki-laki,-,65.5,98.1,3,1,1,Lengkap,1,SMA/SMK,PNS/TNI/Polri,2.5 - 5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+e42d7df083abf009,Ayu F*********,≤ 13 th,7,Perempuan,-,62.1,99.1,3,0,0,Yatim,1,D3/S1,Karyawan Swasta,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Paket Data,0,0,0,Sedang,Layak
+4c5210d130eed5ea,Don* L****,14–15 th,7,Laki-laki,-,84.0,62.8,0,0,0,Lengkap,0,SMA/SMK,Tidak Bekerja,1 - 2.5 Juta,Jauh (5–10 km),Permanen,Wifi Rumah,0,0,0,Sedang,Perlu Ditinjau
+f56dc671c44d0d46,Shi*** F*********,> 18 th,12,Perempuan,Kejuruan,84.0,86.8,2,0,0,Cerai,1,S2/S3,PNS/TNI/Polri,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+d9553b2ffc63f171,Dia* S***,16–18 th,12,Laki-laki,Kejuruan,75.0,98.9,3,0,1,Lengkap,0,SMP,Tidak Bekerja,2.5 - 5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Rendah,Tidak Layak
+9c958800cc178f17,Jok* A*****,16–18 th,9,Laki-laki,-,65.0,95.3,3,1,1,Lengkap,4,SMA/SMK,Petani,2.5 - 5 Juta,Sedang (2–5 km),Permanen,Tidak Ada,0,0,0,Sedang,Perlu Ditinjau
+5e4d0b6680dcc43d,Riz** S******,16–18 th,11,Laki-laki,Kejuruan,100.0,92.4,0,0,0,Lengkap,1,SMP,Petani,2.5 - 5 Juta,Sangat Jauh (>10 km),Tidak Layak Huni,Paket Data,0,0,0,Rendah,Layak
+82f2399f78c224bc,Lin* H******,14–15 th,7,Perempuan,-,81.8,54.3,2,0,1,Lengkap,5,SMA/SMK,Karyawan Swasta,1 - 2.5 Juta,Jauh (5–10 km),Permanen,Paket Data,1,1,1,Tinggi,Layak
+ee777f704c839c75,Ren* S*****,≤ 13 th,8,Perempuan,-,51.3,93.8,3,0,0,Yatim,1,D3/S1,Wiraswasta,2.5 - 5 Juta,Dekat (≤2 km),Tidak Layak Huni,Paket Data,0,0,0,Sedang,Layak
+f273171d0d64a8d4,Nis* S******,16–18 th,10,Laki-laki,IPA,64.4,81.9,1,0,1,Lengkap,1,SMA/SMK,Petani,1 - 2.5 Juta,Dekat (≤2 km),Semi Permanen,Paket Data,1,0,1,Sedang,Perlu Ditinjau
+8844909374f4c707,Eka S*******,14–15 th,7,Perempuan,-,87.7,92.7,0,0,0,Piatu,1,D3/S1,Karyawan Swasta,< 1 Juta,Jauh (5–10 km),Semi Permanen,Tidak Ada,1,1,1,Sedang,Sangat Layak
+8948374288cda0ec,Rat** A*****,≤ 13 th,7,Perempuan,-,59.6,89.7,2,0,1,Piatu,0,SMP,Karyawan Swasta,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Wifi Rumah,0,0,0,Sedang,Sangat Layak
+81e745344c32e461,Bay* H******,14–15 th,9,Perempuan,-,78.8,83.4,3,0,0,Lengkap,1,D3/S1,Petani,1 - 2.5 Juta,Dekat (≤2 km),Semi Permanen,Tidak Ada,0,0,1,Sedang,Layak
+0fef693018651400,Har** L******,16–18 th,11,Perempuan,IPS,86.8,92.9,2,0,0,Lengkap,0,SD,Buruh Harian,2.5 - 5 Juta,Jauh (5–10 km),Permanen,Paket Data,0,0,0,Rendah,Tidak Layak
+8a20085ee72f164c,Cit** S***,16–18 th,10,Laki-laki,Kejuruan,33.7,81.8,6,1,1,Piatu,1,D3/S1,Petani,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Tinggi,Sangat Layak
+0540de286506e88a,Dim** P******,16–18 th,12,Laki-laki,IPS,70.2,83.8,2,0,0,Piatu,1,SMP,Petani,< 1 Juta,Sedang (2–5 km),Semi Permanen,Wifi Rumah,0,1,1,Sedang,Sangat Layak
+ee84cc9a2f5d39ae,Ren*** F*********,16–18 th,12,Perempuan,Kejuruan,73.4,78.3,3,0,0,Lengkap,2,SMP,Buruh Harian,1 - 2.5 Juta,Jauh (5–10 km),Semi Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+2ca1df5e22cfc303,Shi*** R*****,≤ 13 th,8,Perempuan,-,71.6,67.8,1,0,0,Lengkap,0,SMA/SMK,Petani,1 - 2.5 Juta,Sedang (2–5 km),Tidak Layak Huni,Paket Data,0,0,0,Sedang,Layak
+2c1e1626ba7f45ec,Raf* S******,16–18 th,10,Perempuan,IPA,74.8,91.6,2,0,0,Lengkap,0,D3/S1,Petani,1 - 2.5 Juta,Sangat Jauh (>10 km),Permanen,Wifi Rumah,0,0,0,Rendah,Perlu Ditinjau
+96db35e78295a94e,Fan** U****,> 18 th,12,Laki-laki,IPA,77.9,76.3,2,1,0,Cerai,1,Tidak Sekolah,PNS/TNI/Polri,2.5 - 5 Juta,Dekat (≤2 km),Semi Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+25a8f781f558c07f,Dew* S******,≤ 13 th,8,Laki-laki,-,70.2,80.5,1,1,0,Lengkap,4,SMP,Tidak Bekerja,2.5 - 5 Juta,Jauh (5–10 km),Semi Permanen,Tidak Ada,0,1,0,Sedang,Perlu Ditinjau
+3c25da34b42072bd,Nis* H******,16–18 th,11,Perempuan,Kejuruan,69.4,86.1,2,1,0,Cerai,2,D3/S1,Petani,1 - 2.5 Juta,Sangat Jauh (>10 km),Permanen,Paket Data,1,0,1,Sedang,Layak
+1d5178320b32ce39,Yul* B******,≤ 13 th,8,Perempuan,-,77.2,61.5,3,0,0,Lengkap,1,SMP,Meninggal,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Paket Data,1,1,1,Sedang,Layak
+6610bf1e48c5d83b,Raf* W*****,16–18 th,12,Perempuan,IPA,72.3,64.4,2,0,1,Lengkap,1,SD,Pedagang,< 1 Juta,Sedang (2–5 km),Semi Permanen,Wifi Rumah,1,0,1,Tinggi,Sangat Layak
+a51d54d221c7bdcf,Sal** S******,14–15 th,9,Perempuan,-,70.9,79.7,3,0,0,Lengkap,0,SMA/SMK,Buruh Harian,2.5 - 5 Juta,Jauh (5–10 km),Tidak Layak Huni,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+4155be62e46e3aeb,Wah** P******,14–15 th,9,Perempuan,-,55.4,90.6,1,1,0,Lengkap,6,SMP,Petani,> 5 Juta,Jauh (5–10 km),Semi Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+55b39eeac8017a27,Okt* H******,16–18 th,9,Laki-laki,-,52.9,94.2,5,0,0,Lengkap,2,D3/S1,Buruh Harian,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,1,Sedang,Layak
+770004e3fa4d75f2,Gil*** K*****,16–18 th,12,Laki-laki,IPS,55.4,64.6,3,1,0,Lengkap,1,D3/S1,Petani,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+c86515fec0df72b9,Sal** S*****,14–15 th,9,Perempuan,-,78.6,89.7,1,0,0,Lengkap,1,SMA/SMK,PNS/TNI/Polri,> 5 Juta,Jauh (5–10 km),Permanen,Paket Data,0,0,0,Rendah,Tidak Layak
+a56046610752c897,Nan** L******,16–18 th,10,Perempuan,IPS,69.1,80.8,2,0,0,Lengkap,0,S2/S3,Karyawan Swasta,2.5 - 5 Juta,Jauh (5–10 km),Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+a457314086378cf9,Okt* S******,16–18 th,11,Laki-laki,IPA,51.6,74.5,2,0,0,Lengkap,5,SMA/SMK,Wiraswasta,2.5 - 5 Juta,Dekat (≤2 km),Permanen,Wifi Rumah,1,0,0,Sedang,Perlu Ditinjau
+e9c7b36d80f28c21,Faj** A*****,14–15 th,8,Laki-laki,-,79.5,75.2,2,0,0,Yatim Piatu,0,SD,Petani,< 1 Juta,Dekat (≤2 km),Permanen,Tidak Ada,1,1,1,Sedang,Sangat Layak
+c2abdc31cbe387b3,Don* W*****,14–15 th,8,Perempuan,-,91.7,94.0,0,0,0,Lengkap,2,SMP,Buruh Harian,2.5 - 5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Rendah,Tidak Layak
+12c959d40f6be8cb,Raf* K*****,16–18 th,12,Laki-laki,IPS,66.8,87.6,2,0,1,Lengkap,0,SMA/SMK,Karyawan Swasta,< 1 Juta,Jauh (5–10 km),Semi Permanen,Paket Data,0,0,0,Sedang,Layak
+91ba91e632ab83a1,Shi*** P******,14–15 th,9,Laki-laki,-,50.9,84.1,3,1,0,Lengkap,2,SD,PNS/TNI/Polri,< 1 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,1,1,Tinggi,Sangat Layak
+032db21d08ce846f,Agu* P******,14–15 th,9,Perempuan,-,65.4,83.8,4,0,0,Yatim Piatu,2,D3/S1,Tidak Bekerja,1 - 2.5 Juta,Jauh (5–10 km),Permanen,Tidak Ada,0,1,1,Sedang,Sangat Layak
+2305b3375508c8af,Kur*** K********,14–15 th,7,Perempuan,-,81.6,92.0,1,0,0,Lengkap,2,D3/S1,Pedagang,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Wifi Rumah,0,0,0,Rendah,Perlu Ditinjau
+7443c9cdc7549dc9,Dia* P******,16–18 th,11,Perempuan,Kejuruan,83.3,82.4,0,0,0,Cerai,1,SMP,Tidak Bekerja,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+b57e4c5cbdbe3662,Yog* S******,16–18 th,10,Laki-laki,Kejuruan,64.0,80.8,3,0,0,Cerai,3,SMA/SMK,Pedagang,< 1 Juta,Dekat (≤2 km),Semi Permanen,Paket Data,1,0,1,Tinggi,Sangat Layak
+aac11ace0d68d402,Jok* P******,14–15 th,8,Perempuan,-,93.5,97.5,0,0,0,Lengkap,0,SMA/SMK,Pedagang,2.5 - 5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Rendah,Tidak Layak
+c9fe2688bbc7690f,Faj** L******,≤ 13 th,7,Laki-laki,-,93.6,79.8,0,0,0,Lengkap,1,D3/S1,PNS/TNI/Polri,> 5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,1,0,Rendah,Tidak Layak
+9b201af3fbfc425d,Ayu S******,≤ 13 th,7,Laki-laki,-,59.7,94.9,4,0,0,Cerai,0,D3/S1,Buruh Harian,< 1 Juta,Dekat (≤2 km),Tidak Layak Huni,Wifi Rumah,1,0,1,Tinggi,Sangat Layak
+cb4954a261005a26,Faj** W*****,16–18 th,12,Perempuan,Kejuruan,62.0,81.5,3,0,0,Lengkap,7,SMA/SMK,Pedagang,2.5 - 5 Juta,Dekat (≤2 km),Semi Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+c7041981cef60ef7,Raf* A*****,14–15 th,8,Perempuan,-,63.5,78.7,2,0,0,Lengkap,1,D3/S1,Petani,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Wifi Rumah,1,0,1,Sedang,Layak
+4e0af0bdd4eef483,Faj** P******,> 18 th,12,Perempuan,IPS,67.4,81.8,2,0,0,Cerai,2,SMA/SMK,PNS/TNI/Polri,2.5 - 5 Juta,Jauh (5–10 km),Permanen,Wifi Rumah,0,0,0,Sedang,Tidak Layak
+95b7adcefd7c2a89,Kur*** S******,14–15 th,10,Perempuan,Kejuruan,82.9,90.5,2,0,0,Lengkap,2,SMA/SMK,Pedagang,1 - 2.5 Juta,Jauh (5–10 km),Permanen,Tidak Ada,0,0,0,Rendah,Perlu Ditinjau
+1a571d0989825fb5,Rat** S******,≤ 13 th,7,Perempuan,-,79.5,99.6,5,0,0,Yatim,0,SD,Wiraswasta,1 - 2.5 Juta,Jauh (5–10 km),Semi Permanen,Paket Data,0,0,0,Sedang,Layak
+15949da42030e884,Nis* L****,≤ 13 th,7,Laki-laki,-,86.7,82.5,2,0,0,Lengkap,0,SD,Karyawan Swasta,1 - 2.5 Juta,Dekat (≤2 km),Semi Permanen,Paket Data,0,0,0,Rendah,Layak
+1bc6d566f4fbbc96,Jok* P******,16–18 th,11,Laki-laki,IPA,82.4,64.3,0,0,0,Yatim,0,SMA/SMK,Wiraswasta,> 5 Juta,Dekat (≤2 km),Permanen,Wifi Rumah,0,0,0,Rendah,Perlu Ditinjau
+02ecfe82a618af94,Bay* W*****,16–18 th,10,Laki-laki,Kejuruan,95.6,89.1,0,0,0,Lengkap,1,SMP,Buruh Harian,< 1 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,1,1,Rendah,Sangat Layak
+3d0eadea558a820d,Gal** W*****,≤ 13 th,7,Laki-laki,-,57.0,100.0,3,1,0,Lengkap,0,Tidak Sekolah,Pedagang,2.5 - 5 Juta,Jauh (5–10 km),Permanen,Paket Data,0,0,0,Sedang,Tidak Layak
+4e828c87c3edac5d,Bay* A*****,16–18 th,10,Perempuan,IPS,75.3,85.7,0,0,0,Lengkap,0,SMA/SMK,Wiraswasta,> 5 Juta,Sedang (2–5 km),Permanen,Tidak Ada,0,0,0,Rendah,Tidak Layak
+93aa0e26f68e70dd,Eka F*********,14–15 th,8,Laki-laki,-,46.5,66.6,4,1,0,Piatu,3,Tidak Sekolah,Pedagang,2.5 - 5 Juta,Dekat (≤2 km),Permanen,Tidak Ada,0,0,0,Tinggi,Perlu Ditinjau
+3a6f6c76f9f58b6c,Fan** S******,14–15 th,9,Perempuan,-,56.6,83.2,3,0,0,Lengkap,5,SMA/SMK,Buruh Harian,> 5 Juta,Dekat (≤2 km),Semi Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+35c8be20969b7b12,Okt* W*****,≤ 13 th,7,Perempuan,-,71.9,79.5,3,0,0,Lengkap,1,SMA/SMK,Buruh Harian,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Paket Data,1,1,1,Sedang,Layak
+01a0f356161d6815,Ind** K*****,16–18 th,11,Perempuan,IPS,77.2,84.3,3,0,0,Lengkap,1,D3/S1,Petani,2.5 - 5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Rendah,Tidak Layak
+ee5d391d89d017fe,Okt* H******,14–15 th,8,Laki-laki,-,66.9,92.8,2,0,0,Lengkap,0,SMA/SMK,Tidak Bekerja,1 - 2.5 Juta,Jauh (5–10 km),Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+d6a6374fb12e105b,Rin* F*********,16–18 th,10,Perempuan,Kejuruan,62.9,96.0,4,0,0,Lengkap,2,SD,Petani,> 5 Juta,Sedang (2–5 km),Permanen,Wifi Rumah,0,0,0,Rendah,Tidak Layak
+59d24eb840c1dec7,Bag** H******,> 18 th,12,Laki-laki,IPA,70.8,91.2,4,0,0,Lengkap,3,SMA/SMK,Buruh Harian,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,1,1,1,Sedang,Perlu Ditinjau
+b0847477a4a482ee,Don* R*****,≤ 13 th,8,Laki-laki,-,87.4,83.2,1,0,0,Lengkap,0,D3/S1,Petani,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Wifi Rumah,0,0,0,Rendah,Perlu Ditinjau
+92c3812555366b2a,Ind** S******,≤ 13 th,7,Perempuan,-,68.4,95.8,3,0,1,Lengkap,0,S2/S3,Petani,> 5 Juta,Jauh (5–10 km),Permanen,Wifi Rumah,0,0,0,Sedang,Tidak Layak
+2fbfe26cd485973c,Dew* P******,16–18 th,10,Laki-laki,IPA,97.0,66.3,0,0,0,Lengkap,2,SMA/SMK,Buruh Harian,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Wifi Rumah,0,0,0,Sedang,Layak
+7a8029471c356b90,Ren* S******,14–15 th,9,Laki-laki,-,80.5,75.8,0,0,0,Lengkap,1,SMP,Buruh Harian,< 1 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Sedang,Layak
+267ea8d962df54e3,Ren*** H******,14–15 th,8,Perempuan,-,78.4,76.4,1,0,0,Cerai,0,D3/S1,Petani,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Sedang,Layak
+e6b939df9b5bcdbd,Yul* F*********,≤ 13 th,7,Laki-laki,-,58.9,81.0,2,0,0,Lengkap,1,SD,Karyawan Swasta,2.5 - 5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+06be16d355884732,Dim** H******,16–18 th,11,Perempuan,IPA,85.0,87.9,0,0,0,Lengkap,1,SMA/SMK,PNS/TNI/Polri,> 5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Rendah,Tidak Layak
+cab8e1f76c4200f3,Yog* S*********,16–18 th,12,Perempuan,IPS,71.7,81.8,2,0,0,Lengkap,1,SMA/SMK,Pedagang,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Wifi Rumah,0,0,0,Sedang,Perlu Ditinjau
+17e329ee253a8eb3,Wah** R*****,16–18 th,10,Perempuan,IPA,53.7,74.5,2,0,0,Yatim Piatu,2,Tidak Sekolah,Karyawan Swasta,> 5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Sedang,Layak
+65cedc87a26173f4,Ari* H******,14–15 th,8,Laki-laki,-,81.1,94.3,2,0,0,Piatu,2,SMP,Wiraswasta,< 1 Juta,Jauh (5–10 km),Permanen,Paket Data,1,1,1,Sedang,Sangat Layak
+c096605f989b9258,Gil*** S*********,≤ 13 th,8,Laki-laki,-,53.7,79.5,3,0,0,Yatim,1,SMP,Pedagang,1 - 2.5 Juta,Sedang (2–5 km),Tidak Layak Huni,Paket Data,1,1,1,Tinggi,Sangat Layak
+0f04cf17093e4a9c,Bay* P******,14–15 th,9,Perempuan,-,64.5,84.7,0,1,0,Lengkap,4,SMA/SMK,Pedagang,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Tidak Ada,1,0,1,Sedang,Layak
+69ae5194df71aed3,Dim** S*******,14–15 th,9,Laki-laki,-,72.9,86.7,2,0,0,Lengkap,1,D3/S1,Petani,1 - 2.5 Juta,Jauh (5–10 km),Tidak Layak Huni,Wifi Rumah,0,0,0,Rendah,Layak
+aa8fa9aab6cfa694,Ilh** L******,16–18 th,11,Perempuan,IPS,98.5,84.3,0,0,0,Lengkap,2,SMP,Wiraswasta,1 - 2.5 Juta,Dekat (≤2 km),Tidak Layak Huni,Wifi Rumah,0,0,0,Sedang,Layak
+5390b65f5e2f3cf5,Bag** S******,> 18 th,12,Perempuan,Kejuruan,64.5,86.1,2,0,0,Lengkap,1,D3/S1,Pedagang,2.5 - 5 Juta,Dekat (≤2 km),Semi Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+df1003ca52350ec6,Ren* S*******,16–18 th,11,Perempuan,Kejuruan,63.3,92.8,2,0,0,Lengkap,3,SD,Wiraswasta,1 - 2.5 Juta,Sedang (2–5 km),Tidak Layak Huni,Tidak Ada,0,1,0,Sedang,Layak
+e589703ea79d3120,Wah** S******,≤ 13 th,7,Laki-laki,-,83.2,84.1,0,0,0,Cerai,4,SMA/SMK,Karyawan Swasta,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Rendah,Layak
+e047357627792e2b,Raf* N******,≤ 13 th,7,Laki-laki,-,56.6,93.5,3,0,0,Yatim,0,SD,Tidak Bekerja,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Tidak Ada,0,0,0,Sedang,Layak
+e875e722bbc7d27c,Gal** N******,16–18 th,11,Perempuan,IPS,79.3,90.9,4,0,0,Yatim,4,D3/S1,Buruh Harian,< 1 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Sedang,Sangat Layak
+b35897ff6e414ebf,Gal** S******,16–18 th,12,Laki-laki,IPS,90.1,99.3,0,0,0,Lengkap,3,D3/S1,Karyawan Swasta,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Tidak Ada,0,0,0,Rendah,Perlu Ditinjau
+55934b720d613429,Sit* H******,16–18 th,11,Laki-laki,Kejuruan,69.7,87.0,2,0,0,Cerai,2,SMA/SMK,Pedagang,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Wifi Rumah,0,0,0,Rendah,Perlu Ditinjau
+94c0b486fb8b1b02,Lin* H******,16–18 th,12,Perempuan,Kejuruan,86.3,88.0,0,0,0,Lengkap,0,D3/S1,Pedagang,1 - 2.5 Juta,Jauh (5–10 km),Semi Permanen,Wifi Rumah,0,0,0,Rendah,Layak
+c4cbb7091eabf0fa,Sit* L****,16–18 th,12,Perempuan,IPS,74.2,96.2,1,0,0,Lengkap,2,SMA/SMK,Tidak Bekerja,1 - 2.5 Juta,Jauh (5–10 km),Permanen,Tidak Ada,0,0,0,Rendah,Perlu Ditinjau
+8df0f36f7d3b0456,Meg* R*****,16–18 th,10,Perempuan,Kejuruan,61.6,87.1,3,0,0,Cerai,3,D3/S1,PNS/TNI/Polri,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Tidak Ada,0,0,0,Sedang,Perlu Ditinjau
+2020c1fb28e1d918,Lin* H******,> 18 th,12,Perempuan,Kejuruan,72.4,76.4,3,1,0,Lengkap,1,SMA/SMK,Pedagang,1 - 2.5 Juta,Dekat (≤2 km),Semi Permanen,Wifi Rumah,0,0,0,Sedang,Layak
+9b40470ddd701aa1,Ilh** L****,16–18 th,9,Laki-laki,-,70.9,78.0,3,0,0,Lengkap,5,D3/S1,Buruh Harian,> 5 Juta,Dekat (≤2 km),Tidak Layak Huni,Wifi Rumah,0,0,0,Sedang,Layak
+fef7b7ef3ca40e25,Gil*** S*******,> 18 th,12,Perempuan,IPA,70.5,78.5,2,0,1,Lengkap,0,SMA/SMK,Pedagang,< 1 Juta,Sangat Jauh (>10 km),Permanen,Wifi Rumah,1,1,1,Sedang,Layak
+2ea8ca66a845587c,Gil*** S*****,16–18 th,12,Perempuan,IPA,74.1,73.0,0,0,0,Cerai,0,SD,Wiraswasta,1 - 2.5 Juta,Jauh (5–10 km),Permanen,Wifi Rumah,0,0,0,Sedang,Perlu Ditinjau
+b0fe969c34b304f4,Bud* P******,16–18 th,12,Laki-laki,Kejuruan,78.2,85.8,0,0,1,Cerai,1,SMA/SMK,Wiraswasta,> 5 Juta,Dekat (≤2 km),Permanen,Wifi Rumah,0,0,0,Rendah,Tidak Layak
+6adca37f4b365213,Meg* S******,≤ 13 th,7,Laki-laki,-,81.3,78.2,2,0,1,Lengkap,1,SD,Petani,< 1 Juta,Jauh (5–10 km),Semi Permanen,Tidak Ada,1,0,1,Tinggi,Sangat Layak
+3ec8b528a980c62b,Put** H******,14–15 th,9,Perempuan,-,42.3,86.3,4,0,0,Yatim,2,SMA/SMK,PNS/TNI/Polri,< 1 Juta,Sedang (2–5 km),Permanen,Paket Data,0,1,1,Tinggi,Sangat Layak
+9fba019c50c4f51b,Gal** H******,16–18 th,9,Perempuan,-,74.9,82.0,3,0,0,Lengkap,0,SMA/SMK,Karyawan Swasta,2.5 - 5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+2668f667fc758ba2,Nan** W*****,16–18 th,11,Perempuan,Kejuruan,51.2,81.5,3,0,0,Lengkap,5,SMA/SMK,Pedagang,< 1 Juta,Sedang (2–5 km),Permanen,Paket Data,1,1,1,Tinggi,Sangat Layak
+f1254f752d36dec8,Jok* U****,16–18 th,10,Perempuan,IPA,68.2,92.0,1,1,0,Cerai,0,Tidak Sekolah,Buruh Harian,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Paket Data,1,0,1,Sedang,Layak
+35227dd4f7209620,Put** B******,16–18 th,12,Laki-laki,Kejuruan,71.5,79.0,1,0,0,Cerai,0,SD,Pedagang,> 5 Juta,Sedang (2–5 km),Tidak Layak Huni,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+287fbe4cce2acae9,And* P******,14–15 th,8,Laki-laki,-,86.3,90.2,2,0,1,Yatim Piatu,0,SMA/SMK,Karyawan Swasta,< 1 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Sedang,Sangat Layak
+d9afc3236f38d284,Fan** S******,16–18 th,10,Perempuan,IPS,71.6,100.0,3,0,0,Lengkap,1,D3/S1,PNS/TNI/Polri,< 1 Juta,Dekat (≤2 km),Permanen,Paket Data,1,1,1,Sedang,Layak
+523fb77d59eee149,Shi*** W******,16–18 th,10,Perempuan,Kejuruan,74.3,86.3,2,0,0,Cerai,4,SMP,Buruh Harian,< 1 Juta,Jauh (5–10 km),Permanen,Paket Data,0,0,0,Sedang,Sangat Layak
+490af5fab4b9ffdd,Shi*** P******,14–15 th,9,Perempuan,-,84.8,73.8,0,0,0,Lengkap,2,SMA/SMK,Meninggal,2.5 - 5 Juta,Sangat Jauh (>10 km),Semi Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+cd74cbf798835c53,Kur*** B******,14–15 th,10,Perempuan,Kejuruan,89.4,75.9,0,0,0,Piatu,3,SMA/SMK,Buruh Harian,> 5 Juta,Dekat (≤2 km),Semi Permanen,Tidak Ada,0,1,0,Sedang,Layak
+8991d4969ce73946,Okt* H******,16–18 th,12,Laki-laki,IPS,69.2,78.3,2,0,0,Lengkap,0,SMA/SMK,Pedagang,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Tidak Ada,0,1,1,Sedang,Layak
+4faa223293926eee,Rat** S***,16–18 th,12,Laki-laki,IPA,76.7,77.7,3,0,0,Cerai,1,SMP,Buruh Harian,2.5 - 5 Juta,Dekat (≤2 km),Permanen,Paket Data,0,0,0,Rendah,Tidak Layak
+49f8ee7e4e5e8fb8,Gil*** N******,≤ 13 th,7,Perempuan,-,75.3,70.3,1,0,0,Lengkap,1,SMA/SMK,Karyawan Swasta,> 5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,1,0,Rendah,Tidak Layak
+36f3897f288a4cf2,Dia* U****,16–18 th,12,Perempuan,Kejuruan,65.3,83.2,3,0,0,Lengkap,1,SMP,PNS/TNI/Polri,> 5 Juta,Dekat (≤2 km),Semi Permanen,Wifi Rumah,0,0,0,Rendah,Perlu Ditinjau
+004a6bb10700a9de,Kur*** H******,16–18 th,12,Perempuan,IPA,63.2,77.9,3,0,1,Lengkap,0,D3/S1,Wiraswasta,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Sedang,Layak
+5b8a3ae5228889c1,Don* N******,14–15 th,9,Perempuan,-,44.1,85.9,5,0,0,Lengkap,2,SD,Petani,< 1 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,1,1,Tinggi,Sangat Layak
+0316210027586a63,Eka K*****,16–18 th,12,Perempuan,IPA,57.3,96.8,4,1,1,Lengkap,1,SMP,Buruh Harian,1 - 2.5 Juta,Dekat (≤2 km),Semi Permanen,Wifi Rumah,0,0,0,Tinggi,Layak
+278311b4bb54f2ea,Ayu H******,≤ 13 th,7,Laki-laki,-,49.1,80.5,5,0,0,Yatim,2,Tidak Sekolah,Tidak Bekerja,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Paket Data,0,0,0,Tinggi,Layak
+03e833122d86ba32,Nov* P******,≤ 13 th,8,Laki-laki,-,84.7,68.4,0,0,0,Lengkap,1,SMP,Wiraswasta,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,1,Rendah,Layak
+21d775bc876f9022,Dia* S******,14–15 th,9,Laki-laki,-,76.8,77.2,0,0,0,Lengkap,0,D3/S1,Tidak Bekerja,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Wifi Rumah,0,1,1,Rendah,Layak
+aa15c1d921b5bf09,Gal** U****,14–15 th,8,Perempuan,-,67.9,92.7,1,0,0,Lengkap,2,SMP,Pedagang,> 5 Juta,Dekat (≤2 km),Permanen,Tidak Ada,0,0,0,Rendah,Tidak Layak
+59f9d68aefa52458,Rin* S******,14–15 th,9,Laki-laki,-,66.0,90.2,3,0,0,Lengkap,0,SD,Buruh Harian,> 5 Juta,Dekat (≤2 km),Permanen,Wifi Rumah,0,0,0,Rendah,Tidak Layak
+683cb7517e007cad,Ayu P******,16–18 th,11,Laki-laki,Kejuruan,72.3,89.5,1,0,0,Lengkap,3,SMA/SMK,Petani,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Tidak Ada,1,1,1,Rendah,Layak
+7d7e385dbf83eb3c,Lin* P******,16–18 th,10,Perempuan,Kejuruan,60.6,75.7,5,0,0,Lengkap,1,Tidak Sekolah,Petani,> 5 Juta,Jauh (5–10 km),Semi Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+6827500f6e1c6e57,Sal** H******,16–18 th,11,Laki-laki,IPA,73.7,92.3,2,0,0,Lengkap,0,SD,Karyawan Swasta,2.5 - 5 Juta,Sedang (2–5 km),Tidak Layak Huni,Paket Data,0,0,0,Rendah,Layak
+8e1f55eb1700a5a4,Okt* S*****,16–18 th,12,Perempuan,Kejuruan,75.4,96.0,2,0,1,Lengkap,5,D3/S1,Pedagang,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+dcd65553b60b73c4,Wul** K*****,14–15 th,8,Laki-laki,-,63.8,76.9,3,0,0,Lengkap,1,D3/S1,Pedagang,2.5 - 5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+93bb2ed77c82c6f4,Sal** S*******,16–18 th,12,Laki-laki,Kejuruan,56.0,82.4,2,0,0,Lengkap,0,D3/S1,Petani,1 - 2.5 Juta,Dekat (≤2 km),Semi Permanen,Paket Data,0,1,0,Sedang,Perlu Ditinjau
+7b28dd8e1588fd21,Okt* N******,16–18 th,10,Perempuan,IPA,87.6,100.0,0,0,0,Lengkap,1,D3/S1,Petani,> 5 Juta,Jauh (5–10 km),Semi Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+362b9a41a89263c9,Ren* S******,14–15 th,9,Laki-laki,-,72.7,74.6,2,0,0,Lengkap,0,SMA/SMK,Tidak Bekerja,< 1 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,1,Sedang,Sangat Layak
+c33f9726b69b9407,Yul* W******,14–15 th,10,Laki-laki,IPA,59.6,65.0,6,0,1,Lengkap,2,SD,Buruh Harian,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Paket Data,0,0,0,Tinggi,Perlu Ditinjau
+32b846650db447a8,Ren*** L****,≤ 13 th,7,Perempuan,-,65.8,98.5,1,0,0,Piatu,3,D3/S1,Petani,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Tidak Ada,1,0,0,Sedang,Layak
+b8281fdd117afff9,Dew* H******,14–15 th,10,Perempuan,IPS,62.4,95.8,1,0,0,Yatim,6,D3/S1,Wiraswasta,2.5 - 5 Juta,Sedang (2–5 km),Permanen,Wifi Rumah,0,0,1,Sedang,Sangat Layak
+3c5952e7435649e9,Gil*** K********,≤ 13 th,7,Laki-laki,-,70.1,78.3,4,0,0,Cerai,1,D3/S1,Petani,> 5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+9504d48d3a5efeec,Shi*** S******,16–18 th,10,Perempuan,Kejuruan,80.7,80.5,2,0,0,Lengkap,1,SMA/SMK,Petani,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+b4869f6d3a32fcd2,Dew* P******,14–15 th,7,Laki-laki,-,74.3,68.5,2,1,0,Cerai,2,SMP,PNS/TNI/Polri,< 1 Juta,Dekat (≤2 km),Permanen,Paket Data,0,0,1,Sedang,Sangat Layak
+a58fc4a6d85307e3,Bag** W*****,≤ 13 th,8,Laki-laki,-,100.0,81.9,1,0,1,Yatim,0,D3/S1,Pedagang,2.5 - 5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Sedang,Layak
+75f0a2549e922a02,Wul** L******,> 18 th,12,Perempuan,IPS,76.1,93.6,1,0,0,Cerai,1,SMA/SMK,Pedagang,2.5 - 5 Juta,Dekat (≤2 km),Semi Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+86f281c2af35945f,Tia** L****,16–18 th,12,Perempuan,IPA,75.4,76.2,2,0,0,Lengkap,1,S2/S3,Buruh Harian,< 1 Juta,Dekat (≤2 km),Permanen,Wifi Rumah,1,0,1,Sedang,Layak
+2bb25899855486ec,Don* W*****,16–18 th,11,Perempuan,Kejuruan,58.9,93.2,4,1,0,Lengkap,0,SD,Wiraswasta,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Wifi Rumah,0,0,0,Sedang,Perlu Ditinjau
+5059f4f44fb3ea75,Rin* S***,> 18 th,12,Perempuan,IPA,71.2,87.7,4,1,0,Yatim,1,SMP,Petani,< 1 Juta,Jauh (5–10 km),Permanen,Paket Data,1,0,1,Tinggi,Sangat Layak
+4e9a7ea6babb5f24,Wah** W*****,14–15 th,9,Perempuan,-,64.1,90.8,1,0,0,Lengkap,3,SMP,PNS/TNI/Polri,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Paket Data,1,1,1,Sedang,Layak
+ccf45ab64d1f24db,May* L****,16–18 th,10,Laki-laki,Kejuruan,45.1,78.1,5,0,0,Lengkap,3,D3/S1,Petani,< 1 Juta,Sangat Jauh (>10 km),Permanen,Tidak Ada,0,0,0,Tinggi,Perlu Ditinjau
+767d914d446f6c9d,Rin* U****,16–18 th,11,Laki-laki,Kejuruan,85.7,77.0,1,0,0,Lengkap,0,SD,PNS/TNI/Polri,2.5 - 5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+67813380fc569f37,Bud* F*********,16–18 th,9,Perempuan,-,69.5,64.0,2,0,0,Lengkap,0,SD,Pedagang,1 - 2.5 Juta,Sedang (2–5 km),Tidak Layak Huni,Paket Data,0,0,0,Sedang,Layak
+f86a38b3a7d1e6c0,Ton* S*****,14–15 th,9,Laki-laki,-,63.0,78.2,2,0,0,Lengkap,0,S2/S3,Wiraswasta,< 1 Juta,Sedang (2–5 km),Permanen,Tidak Ada,0,0,0,Sedang,Layak
+f93d14f3726aad49,Ari* A*****,≤ 13 th,7,Laki-laki,-,72.6,94.5,0,0,0,Lengkap,3,Tidak Sekolah,PNS/TNI/Polri,2.5 - 5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+7cc8a097ec0b1ba6,Yul* P******,16–18 th,12,Laki-laki,IPS,79.9,73.6,2,0,1,Lengkap,0,D3/S1,Tidak Bekerja,< 1 Juta,Sedang (2–5 km),Permanen,Paket Data,0,1,1,Sedang,Sangat Layak
+559e84dd55b8061e,Put** S******,14–15 th,8,Laki-laki,-,72.2,73.7,1,0,0,Lengkap,2,SMP,Karyawan Swasta,2.5 - 5 Juta,Sedang (2–5 km),Semi Permanen,Wifi Rumah,0,0,0,Rendah,Perlu Ditinjau
+fbb332c7ae517416,Agu* S******,14–15 th,8,Perempuan,-,70.0,91.1,1,0,1,Lengkap,0,D3/S1,Pedagang,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Paket Data,1,0,1,Sedang,Layak
+243b55d950ac1e9b,Bag** U****,16–18 th,11,Perempuan,IPA,81.3,86.1,2,0,0,Lengkap,1,SMA/SMK,Karyawan Swasta,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Tidak Ada,0,0,0,Rendah,Perlu Ditinjau
+62da70812a493143,Rat** K*****,14–15 th,8,Perempuan,-,68.8,88.3,3,0,0,Lengkap,1,D3/S1,Buruh Harian,2.5 - 5 Juta,Dekat (≤2 km),Semi Permanen,Paket Data,1,0,1,Rendah,Perlu Ditinjau
+f9b0bee1d72374e9,Riz** S*******,16–18 th,10,Laki-laki,Kejuruan,75.9,70.4,2,1,0,Cerai,2,D3/S1,Tidak Bekerja,2.5 - 5 Juta,Dekat (≤2 km),Semi Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+bfff0eacdc3dbacb,Nis* W******,14–15 th,8,Laki-laki,-,49.0,99.8,4,0,0,Cerai,0,Tidak Sekolah,Tidak Bekerja,> 5 Juta,Sangat Jauh (>10 km),Permanen,Paket Data,0,0,0,Sedang,Tidak Layak
+67edf161655d80db,Wul** S*****,16–18 th,11,Laki-laki,IPS,58.2,69.4,4,1,1,Lengkap,2,SD,Tidak Bekerja,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Tidak Ada,0,0,0,Tinggi,Perlu Ditinjau
+85c788b8051c7761,Shi*** K********,14–15 th,8,Laki-laki,-,84.6,83.2,3,0,0,Lengkap,0,SMP,Tidak Bekerja,2.5 - 5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+616dd504f87f88a7,Ilh** H******,16–18 th,10,Perempuan,IPA,56.4,81.4,2,0,0,Lengkap,2,SMA/SMK,Pedagang,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Paket Data,1,1,1,Rendah,Layak
+2af6712bd545b2a3,Riz** S******,≤ 13 th,7,Perempuan,-,74.2,70.4,3,0,0,Yatim,3,D3/S1,Karyawan Swasta,1 - 2.5 Juta,Jauh (5–10 km),Tidak Layak Huni,Tidak Ada,0,0,0,Tinggi,Sangat Layak
+45a4240ef46bade2,Kur*** S*****,16–18 th,11,Perempuan,IPS,67.9,78.9,2,1,0,Lengkap,0,SMA/SMK,Petani,2.5 - 5 Juta,Sedang (2–5 km),Tidak Layak Huni,Wifi Rumah,0,0,0,Sedang,Layak
+b52149fddc95c35e,Har** W*****,≤ 13 th,7,Laki-laki,-,68.5,84.3,4,0,0,Lengkap,3,SMA/SMK,Pedagang,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+3da772c2ef0c653a,Wah** W******,≤ 13 th,7,Perempuan,-,64.2,75.0,2,0,0,Lengkap,1,SD,Petani,< 1 Juta,Dekat (≤2 km),Permanen,Paket Data,1,1,1,Sedang,Layak
+ae330b313ddbcb8a,Ren*** K*****,≤ 13 th,7,Perempuan,-,85.0,95.8,1,0,0,Lengkap,0,D3/S1,Pedagang,2.5 - 5 Juta,Sedang (2–5 km),Tidak Layak Huni,Paket Data,1,0,0,Rendah,Perlu Ditinjau
+459936ee63a1baf4,Ind** S*******,14–15 th,9,Perempuan,-,95.0,80.2,0,0,0,Yatim,1,D3/S1,Petani,2.5 - 5 Juta,Dekat (≤2 km),Permanen,Paket Data,0,0,0,Rendah,Layak
+77addf4c804179ee,Jok* S*********,16–18 th,12,Perempuan,IPA,74.8,69.7,2,0,0,Yatim,0,SMP,Tidak Bekerja,1 - 2.5 Juta,Dekat (≤2 km),Semi Permanen,Paket Data,0,1,1,Sedang,Sangat Layak
+265b9cf25aaa0a0e,Rat** L****,16–18 th,9,Laki-laki,-,74.8,69.8,2,0,0,Lengkap,2,SMA/SMK,Karyawan Swasta,< 1 Juta,Jauh (5–10 km),Permanen,Paket Data,1,0,1,Sedang,Layak
+db08e61a578d84ab,And* H******,16–18 th,12,Laki-laki,Kejuruan,65.7,90.7,3,0,0,Lengkap,2,SD,Wiraswasta,> 5 Juta,Dekat (≤2 km),Semi Permanen,Wifi Rumah,0,0,0,Sedang,Perlu Ditinjau
+9cd5bbb5ddbab280,Raf* H******,≤ 13 th,7,Laki-laki,-,58.8,66.7,3,1,0,Lengkap,0,SMA/SMK,Petani,2.5 - 5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+9c205c8e3bfaefc5,Sit* N******,16–18 th,11,Perempuan,IPS,68.9,86.2,3,0,0,Lengkap,1,SMA/SMK,Buruh Harian,1 - 2.5 Juta,Jauh (5–10 km),Semi Permanen,Wifi Rumah,0,0,0,Rendah,Layak
+2aee32b49df84c8a,Teg** S******,16–18 th,12,Laki-laki,IPS,63.2,89.6,2,0,0,Lengkap,3,SD,Tidak Bekerja,< 1 Juta,Dekat (≤2 km),Semi Permanen,Wifi Rumah,0,0,1,Sedang,Sangat Layak
+885fd113c9ac28aa,Ayu R*****,16–18 th,10,Laki-laki,Kejuruan,50.1,70.9,3,1,0,Lengkap,4,SMA/SMK,Pedagang,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Tidak Ada,0,0,0,Tinggi,Layak
+9775346256e471fd,Don* S******,14–15 th,10,Laki-laki,IPA,85.8,91.5,0,0,0,Lengkap,1,SMP,Buruh Harian,> 5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+5b0951d3db072cde,Raf* R*****,≤ 13 th,8,Laki-laki,-,81.3,64.4,2,0,0,Lengkap,5,SMA/SMK,Buruh Harian,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Tidak Ada,0,1,0,Sedang,Layak
+c4a5db64cd73d38e,Nan** S******,16–18 th,12,Perempuan,Kejuruan,58.3,88.9,3,0,0,Piatu,1,SMA/SMK,Petani,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Wifi Rumah,1,0,1,Sedang,Sangat Layak
+3932dd61e9a7639f,Okt* F*********,16–18 th,11,Perempuan,IPS,75.7,83.6,0,0,1,Lengkap,1,Tidak Sekolah,Karyawan Swasta,2.5 - 5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+1962dcb052a2d74a,Nis* F*********,16–18 th,9,Laki-laki,-,87.0,80.5,2,0,0,Yatim,3,D3/S1,Karyawan Swasta,1 - 2.5 Juta,Sangat Jauh (>10 km),Permanen,Wifi Rumah,0,0,0,Tinggi,Layak
+975555fb34affc8d,Ren* U****,≤ 13 th,7,Laki-laki,-,78.6,70.5,4,0,0,Cerai,1,SMA/SMK,Buruh Harian,> 5 Juta,Dekat (≤2 km),Permanen,Paket Data,0,0,0,Rendah,Tidak Layak
+b9331a604730bace,Nan** H******,14–15 th,8,Laki-laki,-,58.4,72.1,2,1,0,Lengkap,1,SMP,Tidak Bekerja,> 5 Juta,Dekat (≤2 km),Permanen,Paket Data,0,0,0,Sedang,Tidak Layak
+a2e37650d7d67a8e,Sit* P******,16–18 th,10,Laki-laki,Kejuruan,68.5,98.9,2,1,0,Cerai,1,SD,Buruh Harian,1 - 2.5 Juta,Jauh (5–10 km),Semi Permanen,Wifi Rumah,1,1,1,Sedang,Layak
+475cefe283bebaa1,Shi*** S******,14–15 th,9,Laki-laki,-,87.9,98.5,0,0,0,Lengkap,3,D3/S1,Karyawan Swasta,1 - 2.5 Juta,Sangat Jauh (>10 km),Permanen,Tidak Ada,1,1,1,Sedang,Layak
+fd1dde4c3bcad864,Hen*** W******,14–15 th,9,Laki-laki,-,78.5,89.9,2,0,0,Lengkap,3,D3/S1,Buruh Harian,< 1 Juta,Sedang (2–5 km),Tidak Layak Huni,Wifi Rumah,0,1,1,Sedang,Sangat Layak
+f50822c9913d80bb,Teg** P******,≤ 13 th,7,Laki-laki,-,78.1,96.4,0,0,0,Lengkap,1,SMP,Karyawan Swasta,< 1 Juta,Dekat (≤2 km),Permanen,Paket Data,1,1,1,Rendah,Layak
+da52bd695631d11a,Ari* S******,> 18 th,12,Perempuan,IPS,80.3,94.2,1,0,0,Yatim Piatu,1,SMP,PNS/TNI/Polri,< 1 Juta,Sedang (2–5 km),Permanen,Tidak Ada,1,1,1,Sedang,Sangat Layak
+66885e6a392a65bd,Faj** S******,16–18 th,10,Perempuan,Kejuruan,60.4,81.6,4,0,0,Lengkap,1,SD,Tidak Bekerja,1 - 2.5 Juta,Dekat (≤2 km),Semi Permanen,Tidak Ada,0,0,0,Sedang,Perlu Ditinjau
+d0458197705ca907,Raf* S******,16–18 th,11,Laki-laki,IPA,67.2,83.3,4,0,0,Lengkap,1,SMA/SMK,Pedagang,1 - 2.5 Juta,Jauh (5–10 km),Semi Permanen,Tidak Ada,0,1,1,Sedang,Layak
+f6de1c6f1e779fb2,Dew* L******,14–15 th,9,Laki-laki,-,78.4,66.8,2,0,0,Piatu,0,SD,Karyawan Swasta,< 1 Juta,Dekat (≤2 km),Permanen,Paket Data,1,1,1,Sedang,Sangat Layak
+a6545a8338776d33,Fan** S***,14–15 th,7,Perempuan,-,82.7,80.9,1,0,1,Lengkap,2,SMP,Pedagang,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Wifi Rumah,0,0,0,Rendah,Perlu Ditinjau
+9210823e8cd10c2a,Raf* U****,16–18 th,11,Laki-laki,IPS,86.0,96.2,0,0,0,Cerai,1,SMA/SMK,Petani,2.5 - 5 Juta,Dekat (≤2 km),Permanen,Wifi Rumah,0,0,0,Rendah,Perlu Ditinjau
+1614e11d4f0b20ce,Ren* S***,16–18 th,12,Perempuan,IPS,60.3,76.7,2,1,0,Cerai,1,SMA/SMK,Petani,2.5 - 5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+441139b89d317baf,Tia** H******,16–18 th,10,Perempuan,IPA,78.9,96.9,1,0,0,Yatim,0,SMP,Petani,< 1 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,1,1,1,Sedang,Sangat Layak
+5dfeb2c221df85ac,Ayu S******,> 18 th,12,Laki-laki,Kejuruan,88.2,83.3,0,0,1,Yatim Piatu,0,SMA/SMK,Buruh Harian,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Wifi Rumah,1,1,1,Sedang,Sangat Layak
+7f67ece5aaa8744f,Nan** S******,14–15 th,9,Laki-laki,-,58.8,67.5,3,0,0,Yatim Piatu,4,SMA/SMK,Karyawan Swasta,< 1 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Tinggi,Sangat Layak
+984c5be6dd6b4f6b,Don* S*******,16–18 th,11,Perempuan,IPA,91.7,70.8,0,0,0,Lengkap,1,Tidak Sekolah,Buruh Harian,2.5 - 5 Juta,Dekat (≤2 km),Semi Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+f79172b781328646,Ren* R*****,16–18 th,11,Laki-laki,Kejuruan,94.2,91.9,1,0,0,Yatim,0,SD,Petani,2.5 - 5 Juta,Jauh (5–10 km),Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+205b63fc8611b8ad,Ari* S******,16–18 th,11,Perempuan,IPA,95.7,90.9,1,0,1,Lengkap,1,D3/S1,Karyawan Swasta,< 1 Juta,Sedang (2–5 km),Tidak Layak Huni,Paket Data,0,0,1,Sedang,Sangat Layak
+256c7e0d48602b4f,Eka U****,14–15 th,9,Perempuan,-,76.9,83.9,1,0,0,Lengkap,1,SD,Buruh Harian,1 - 2.5 Juta,Dekat (≤2 km),Semi Permanen,Paket Data,1,0,1,Sedang,Layak
+df4f898df3d19677,Hen*** A*****,14–15 th,9,Perempuan,-,74.0,79.7,0,1,0,Lengkap,0,SMA/SMK,Tidak Bekerja,1 - 2.5 Juta,Sangat Jauh (>10 km),Permanen,Tidak Ada,1,1,1,Sedang,Layak
+c488f81665753057,Ayu L******,> 18 th,12,Laki-laki,IPA,80.7,85.3,0,0,0,Cerai,1,D3/S1,Petani,< 1 Juta,Sedang (2–5 km),Permanen,Wifi Rumah,0,0,0,Sedang,Layak
+aeaaa69bbd8faaa6,Ren*** N*******,14–15 th,8,Perempuan,-,79.6,91.8,2,0,0,Yatim Piatu,1,SMP,Buruh Harian,2.5 - 5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Rendah,Layak
+60eb72645b08e327,Gal** S***,16–18 th,12,Laki-laki,IPS,83.4,100.0,2,0,0,Piatu,1,SMP,Pedagang,1 - 2.5 Juta,Sangat Jauh (>10 km),Permanen,Wifi Rumah,1,1,1,Sedang,Sangat Layak
+0c578376cc412b45,Ren*** S******,14–15 th,10,Perempuan,IPS,80.3,99.7,2,0,0,Lengkap,1,SMA/SMK,Petani,2.5 - 5 Juta,Sangat Jauh (>10 km),Semi Permanen,Wifi Rumah,0,0,0,Rendah,Perlu Ditinjau
+2de25490cad2f5fc,Ton* H******,≤ 13 th,7,Perempuan,-,69.6,87.4,3,0,1,Lengkap,1,D3/S1,Pedagang,< 1 Juta,Sedang (2–5 km),Permanen,Paket Data,0,1,1,Sedang,Sangat Layak
+f632b3088fb6e808,Gil*** N*******,16–18 th,11,Laki-laki,Kejuruan,91.9,80.9,1,0,1,Lengkap,5,D3/S1,PNS/TNI/Polri,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Tidak Ada,1,1,1,Tinggi,Sangat Layak
+0a2531dbd95bc42b,Gil*** L****,14–15 th,8,Perempuan,-,57.9,85.5,5,1,0,Yatim,1,SMA/SMK,Wiraswasta,< 1 Juta,Dekat (≤2 km),Semi Permanen,Paket Data,0,0,0,Tinggi,Sangat Layak
+48713034f06fc01e,Nov* U****,≤ 13 th,7,Perempuan,-,73.4,91.5,3,0,0,Cerai,0,SD,Tidak Bekerja,< 1 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,1,1,Sedang,Sangat Layak
+70c6c8c12e43de1b,Fan** S******,14–15 th,8,Laki-laki,-,93.8,89.2,0,0,0,Lengkap,0,SMA/SMK,PNS/TNI/Polri,< 1 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,1,1,1,Rendah,Sangat Layak
+df57a69e9bcb1079,Dew* S******,> 18 th,12,Laki-laki,IPA,56.3,99.5,5,0,0,Lengkap,1,SMA/SMK,Karyawan Swasta,2.5 - 5 Juta,Sedang (2–5 km),Permanen,Wifi Rumah,0,0,0,Rendah,Tidak Layak
+579d510c7659c9a4,Put** L****,14–15 th,9,Laki-laki,-,63.8,97.9,2,0,0,Lengkap,2,SMA/SMK,Karyawan Swasta,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Tidak Ada,0,0,0,Sedang,Perlu Ditinjau
+2f34525587839be9,Agu* A*****,16–18 th,11,Laki-laki,Kejuruan,78.6,81.2,0,0,1,Lengkap,0,Tidak Sekolah,Pedagang,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+edb58f6363f92036,Ton* A*****,> 18 th,12,Laki-laki,IPA,80.9,98.4,2,0,0,Piatu,2,SD,Buruh Harian,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Wifi Rumah,0,0,0,Rendah,Layak
+1127a459a27e0cc1,Hen*** N*******,≤ 13 th,7,Perempuan,-,64.6,93.8,1,0,1,Lengkap,0,D3/S1,Buruh Harian,< 1 Juta,Dekat (≤2 km),Permanen,Paket Data,1,0,1,Sedang,Layak
+7a19293375d9481a,Dia* S******,≤ 13 th,7,Laki-laki,-,63.6,80.9,2,0,1,Lengkap,1,SMA/SMK,Pedagang,1 - 2.5 Juta,Dekat (≤2 km),Tidak Layak Huni,Paket Data,1,0,1,Sedang,Sangat Layak
+bec50ebb60618811,Ilh** K*****,≤ 13 th,7,Laki-laki,-,55.0,100.0,4,0,1,Lengkap,2,SMP,Karyawan Swasta,2.5 - 5 Juta,Dekat (≤2 km),Semi Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+fdbe49a6289aa6e5,Meg* P******,≤ 13 th,7,Perempuan,-,84.4,100.0,2,0,0,Lengkap,1,SMP,Wiraswasta,< 1 Juta,Sedang (2–5 km),Permanen,Paket Data,1,0,1,Rendah,Layak
+70166f8922b2b5c1,Wul** W******,≤ 13 th,7,Laki-laki,-,67.1,78.4,3,0,1,Yatim Piatu,1,D3/S1,Buruh Harian,2.5 - 5 Juta,Jauh (5–10 km),Semi Permanen,Wifi Rumah,0,0,0,Sedang,Layak
+0319e514efecf3aa,Dim** S*****,14–15 th,8,Perempuan,-,97.0,97.7,0,0,1,Lengkap,0,SMA/SMK,Buruh Harian,1 - 2.5 Juta,Dekat (≤2 km),Semi Permanen,Paket Data,0,0,0,Sedang,Layak
+b541658b59104ced,Sal** H******,> 18 th,12,Laki-laki,IPA,72.5,94.7,0,0,0,Lengkap,2,SMP,Wiraswasta,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Wifi Rumah,0,0,0,Rendah,Perlu Ditinjau
+f81d7172964af580,Eka W*****,16–18 th,11,Laki-laki,IPS,74.3,100.0,3,0,0,Lengkap,0,SD,Tidak Bekerja,2.5 - 5 Juta,Jauh (5–10 km),Permanen,Tidak Ada,0,0,0,Rendah,Perlu Ditinjau
+160454c07046e96a,Don* P******,14–15 th,9,Perempuan,-,70.4,79.3,3,0,0,Cerai,3,SMP,Karyawan Swasta,1 - 2.5 Juta,Sedang (2–5 km),Tidak Layak Huni,Paket Data,0,0,1,Tinggi,Sangat Layak
+bcfbdd9a75785338,Dia* R*****,14–15 th,9,Perempuan,-,69.4,77.2,3,0,0,Cerai,0,D3/S1,Buruh Harian,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+9c1e2c49f36f0dff,Sal** S******,16–18 th,12,Perempuan,IPA,76.1,59.7,2,0,1,Cerai,3,SMA/SMK,Meninggal,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Tidak Ada,0,0,0,Tinggi,Perlu Ditinjau
+9c44b65a7e55e5ef,Jok* H******,> 18 th,12,Perempuan,IPS,100.0,89.9,0,0,0,Lengkap,1,SMA/SMK,Pedagang,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Wifi Rumah,0,0,0,Rendah,Perlu Ditinjau
+ea2b1649642861cf,Yog* S******,14–15 th,9,Perempuan,-,66.9,88.8,5,1,0,Lengkap,2,SMA/SMK,Karyawan Swasta,< 1 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Tinggi,Layak
+5b6ca7db5716cfbd,Ren* P******,14–15 th,9,Laki-laki,-,67.4,73.7,3,0,0,Lengkap,1,SMP,Petani,< 1 Juta,Jauh (5–10 km),Permanen,Paket Data,1,0,1,Sedang,Layak
+3af9a4f6984d3523,Cit** B******,14–15 th,8,Laki-laki,-,73.2,82.8,2,0,0,Cerai,4,D3/S1,Karyawan Swasta,2.5 - 5 Juta,Dekat (≤2 km),Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+e177c587db712265,Lin* U****,16–18 th,10,Perempuan,IPS,88.7,69.2,1,0,0,Lengkap,0,SMA/SMK,Buruh Harian,2.5 - 5 Juta,Sedang (2–5 km),Permanen,Tidak Ada,0,0,0,Rendah,Tidak Layak
+4c8dbf0bc58d3d6c,Rin* N*******,16–18 th,11,Perempuan,IPA,54.3,98.3,3,0,1,Lengkap,0,SD,Pedagang,< 1 Juta,Sedang (2–5 km),Tidak Layak Huni,Paket Data,1,0,1,Tinggi,Sangat Layak
+9f3054b7dbbb22cf,Bay* K*****,14–15 th,7,Perempuan,-,74.8,79.0,3,1,0,Yatim,1,SD,Pedagang,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Wifi Rumah,0,1,0,Sedang,Layak
+80594f890fc910ea,Ari* U****,14–15 th,10,Laki-laki,IPA,60.4,100.0,3,0,1,Piatu,0,SMA/SMK,Tidak Bekerja,2.5 - 5 Juta,Sangat Jauh (>10 km),Semi Permanen,Paket Data,0,0,0,Tinggi,Layak
+e7d8286dc280fd68,Ayu W*****,16–18 th,12,Laki-laki,Kejuruan,79.9,80.8,2,0,0,Lengkap,0,D3/S1,Buruh Harian,2.5 - 5 Juta,Sedang (2–5 km),Tidak Layak Huni,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+f79d3a09d9f55843,Har** K*****,14–15 th,9,Perempuan,-,65.8,72.1,2,0,0,Lengkap,4,SMP,Karyawan Swasta,< 1 Juta,Sangat Jauh (>10 km),Permanen,Tidak Ada,0,1,1,Tinggi,Sangat Layak
+fac8899263d5bc10,Teg** F*********,16–18 th,10,Laki-laki,Kejuruan,46.9,78.4,4,0,0,Lengkap,6,D3/S1,Karyawan Swasta,< 1 Juta,Dekat (≤2 km),Tidak Layak Huni,Paket Data,0,0,0,Tinggi,Sangat Layak
+a5e3db412391bf72,Ari* B******,16–18 th,11,Perempuan,Kejuruan,74.2,69.5,2,0,0,Cerai,1,D3/S1,Buruh Harian,1 - 2.5 Juta,Jauh (5–10 km),Tidak Layak Huni,Paket Data,0,0,0,Sedang,Layak
+4d77d6a6f90825ed,And* P******,> 18 th,12,Perempuan,IPS,78.0,91.1,2,1,0,Yatim,4,SMP,Tidak Bekerja,2.5 - 5 Juta,Jauh (5–10 km),Tidak Layak Huni,Paket Data,0,0,0,Sedang,Sangat Layak
+1cdbb4a7f87348a9,Rin* H******,14–15 th,7,Laki-laki,-,68.0,80.1,2,0,0,Lengkap,1,Tidak Sekolah,PNS/TNI/Polri,> 5 Juta,Dekat (≤2 km),Permanen,Paket Data,0,0,0,Rendah,Tidak Layak
+edcb3b8e38a4a7cc,Kur*** S*******,≤ 13 th,7,Perempuan,-,68.5,96.6,2,1,0,Lengkap,0,SD,Karyawan Swasta,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,1,0,1,Sedang,Layak
+1a2782e33a651066,Bag** P******,16–18 th,11,Perempuan,IPS,54.2,80.6,3,0,0,Yatim,2,SMA/SMK,Pedagang,< 1 Juta,Sedang (2–5 km),Semi Permanen,Wifi Rumah,1,0,1,Tinggi,Sangat Layak
+b55067ef05153cf8,Ayu H******,16–18 th,11,Laki-laki,IPS,84.0,98.2,1,0,0,Yatim,2,SD,Karyawan Swasta,2.5 - 5 Juta,Jauh (5–10 km),Tidak Layak Huni,Paket Data,0,0,0,Sedang,Sangat Layak
+193c8aa878425580,Rat** H******,14–15 th,9,Perempuan,-,85.1,91.8,1,0,0,Lengkap,7,SMP,Petani,> 5 Juta,Sedang (2–5 km),Permanen,Paket Data,1,0,0,Rendah,Perlu Ditinjau
+abd133a72c81e6a5,May* H******,≤ 13 th,7,Laki-laki,-,61.4,86.5,2,0,0,Lengkap,0,SMA/SMK,Buruh Harian,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Tidak Ada,0,0,0,Sedang,Perlu Ditinjau
+da1466cf141302c7,Teg** P******,> 18 th,12,Perempuan,IPS,64.8,98.6,3,0,0,Lengkap,2,SMA/SMK,Petani,< 1 Juta,Sangat Jauh (>10 km),Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+cc294bc088ea0cff,And* S******,16–18 th,10,Laki-laki,IPS,72.9,96.4,2,0,0,Lengkap,0,SD,PNS/TNI/Polri,2.5 - 5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Rendah,Tidak Layak
+190c94a55f0c5209,Sal** W******,16–18 th,12,Perempuan,IPS,94.9,99.5,0,0,0,Piatu,0,SMA/SMK,Petani,2.5 - 5 Juta,Jauh (5–10 km),Permanen,Tidak Ada,0,0,0,Rendah,Perlu Ditinjau
+d291bac15f07f223,Meg* N*******,14–15 th,8,Laki-laki,-,81.4,81.0,1,0,1,Yatim,0,SMA/SMK,Buruh Harian,< 1 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,1,1,1,Tinggi,Sangat Layak
+6add39222657519c,Don* S*****,14–15 th,8,Laki-laki,-,60.3,81.9,2,1,0,Cerai,7,SMA/SMK,Buruh Harian,2.5 - 5 Juta,Sangat Jauh (>10 km),Permanen,Tidak Ada,0,0,0,Tinggi,Perlu Ditinjau
+ba2938c11b3b16af,Yog* A*****,16–18 th,11,Perempuan,IPA,75.6,100.0,2,0,0,Lengkap,2,D3/S1,Pedagang,2.5 - 5 Juta,Dekat (≤2 km),Semi Permanen,Tidak Ada,0,0,0,Rendah,Perlu Ditinjau
+2bcf02902d3e7427,Ren*** L******,14–15 th,9,Laki-laki,-,59.1,65.9,2,0,0,Yatim,2,SD,Buruh Harian,> 5 Juta,Dekat (≤2 km),Tidak Layak Huni,Paket Data,0,0,0,Sedang,Layak
+7266b99fcfa5ff60,Dia* N******,14–15 th,8,Laki-laki,-,80.7,95.9,3,0,0,Lengkap,1,D3/S1,Meninggal,1 - 2.5 Juta,Sangat Jauh (>10 km),Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+366e8b1b6dc5a687,Jok* L******,≤ 13 th,7,Perempuan,-,93.2,88.3,0,0,0,Lengkap,1,SMA/SMK,Petani,1 - 2.5 Juta,Dekat (≤2 km),Semi Permanen,Wifi Rumah,0,0,0,Rendah,Layak
+1eeb99bacd02741e,Sal** U****,16–18 th,12,Perempuan,Kejuruan,98.0,75.5,0,0,0,Lengkap,0,SMA/SMK,Wiraswasta,> 5 Juta,Sangat Jauh (>10 km),Permanen,Paket Data,0,1,0,Rendah,Tidak Layak
+14b0730861711574,Dew* W*****,> 18 th,12,Perempuan,Kejuruan,80.3,67.7,1,1,0,Lengkap,1,SMA/SMK,Petani,< 1 Juta,Jauh (5–10 km),Permanen,Wifi Rumah,1,1,1,Sedang,Layak
+51523498cf12425e,Gil*** S******,16–18 th,11,Perempuan,Kejuruan,63.9,73.8,2,0,0,Cerai,1,SMA/SMK,Wiraswasta,2.5 - 5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+8b18b83b301525de,Ayu U****,14–15 th,10,Laki-laki,IPA,55.7,57.9,4,1,0,Lengkap,2,SD,Pedagang,< 1 Juta,Dekat (≤2 km),Tidak Layak Huni,Paket Data,0,1,1,Tinggi,Sangat Layak
+3a3498bf20909678,Hen*** H******,16–18 th,11,Laki-laki,Kejuruan,55.7,77.9,3,0,1,Lengkap,1,SMA/SMK,Karyawan Swasta,> 5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+2eeec2076d1f473d,Sit* W*****,16–18 th,10,Laki-laki,IPS,36.4,90.8,3,0,1,Lengkap,0,SMA/SMK,Tidak Bekerja,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Sedang,Layak
+728ac0807689433f,Rat** W******,16–18 th,11,Perempuan,IPA,79.4,79.4,1,0,0,Lengkap,0,SMA/SMK,Pedagang,> 5 Juta,Jauh (5–10 km),Permanen,Tidak Ada,0,0,0,Rendah,Tidak Layak
+893116c0783abdbf,Bay* R*****,16–18 th,11,Perempuan,IPA,69.9,98.9,2,0,0,Lengkap,0,SMP,Buruh Harian,2.5 - 5 Juta,Sangat Jauh (>10 km),Permanen,Wifi Rumah,0,0,0,Rendah,Perlu Ditinjau
+aeacbd99bd4547a2,Yul* S*****,16–18 th,11,Perempuan,Kejuruan,82.8,100.0,0,0,0,Lengkap,1,D3/S1,Petani,< 1 Juta,Dekat (≤2 km),Semi Permanen,Wifi Rumah,0,1,1,Rendah,Sangat Layak
+341407ba3123a381,Wul** S******,16–18 th,10,Perempuan,IPS,90.8,98.3,2,0,1,Yatim,4,SMA/SMK,Buruh Harian,> 5 Juta,Jauh (5–10 km),Permanen,Wifi Rumah,1,0,0,Sedang,Layak
+6728b57b9d283562,Yul* L****,16–18 th,10,Laki-laki,Kejuruan,74.9,85.5,1,0,0,Lengkap,2,SD,Petani,> 5 Juta,Jauh (5–10 km),Permanen,Tidak Ada,0,0,0,Rendah,Tidak Layak
+365dfd40c70acc2e,Rat** K********,16–18 th,11,Laki-laki,IPA,74.8,55.6,3,0,0,Lengkap,2,SMA/SMK,Karyawan Swasta,2.5 - 5 Juta,Jauh (5–10 km),Semi Permanen,Tidak Ada,0,0,0,Sedang,Perlu Ditinjau
+9592f7ce14ab7fbd,Agu* N*******,14–15 th,8,Laki-laki,-,62.4,75.6,3,0,0,Lengkap,1,D3/S1,Petani,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+8312b6c65dc50132,Cit** S******,14–15 th,9,Perempuan,-,70.1,81.5,3,0,1,Yatim,1,D3/S1,Petani,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Tidak Ada,0,0,0,Tinggi,Layak
+6ffe16f2212b9f8d,Ayu P******,14–15 th,9,Laki-laki,-,82.5,75.4,2,0,0,Lengkap,0,SMA/SMK,Wiraswasta,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Wifi Rumah,0,0,0,Rendah,Perlu Ditinjau
+ca331fa54139211b,Meg* P******,14–15 th,9,Perempuan,-,72.8,82.7,3,0,0,Lengkap,3,D3/S1,Buruh Harian,1 - 2.5 Juta,Dekat (≤2 km),Semi Permanen,Tidak Ada,1,1,1,Sedang,Layak
+28acfc6237fcd7e3,Meg* W******,14–15 th,10,Laki-laki,Kejuruan,68.9,98.2,3,0,0,Lengkap,2,SMP,Pedagang,> 5 Juta,Sedang (2–5 km),Tidak Layak Huni,Wifi Rumah,0,0,0,Rendah,Perlu Ditinjau
+48ee6fd86effd380,Teg** R*****,16–18 th,10,Laki-laki,IPA,74.2,65.3,2,1,0,Lengkap,0,SMA/SMK,Buruh Harian,1 - 2.5 Juta,Jauh (5–10 km),Semi Permanen,Wifi Rumah,0,0,0,Sedang,Perlu Ditinjau
+1ad73bfbc676f2bc,Put** H******,14–15 th,8,Laki-laki,-,84.9,100.0,1,0,0,Lengkap,1,D3/S1,Wiraswasta,< 1 Juta,Sedang (2–5 km),Permanen,Wifi Rumah,1,0,1,Rendah,Layak
+fd73ca58675d4297,Ton* L******,16–18 th,9,Perempuan,-,65.7,95.3,2,0,0,Cerai,1,D3/S1,Petani,2.5 - 5 Juta,Jauh (5–10 km),Tidak Layak Huni,Paket Data,0,0,0,Sedang,Layak
+c7f68c5ae8103e02,Nis* B******,14–15 th,9,Perempuan,-,73.0,87.3,2,0,0,Lengkap,1,SMA/SMK,Tidak Bekerja,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,1,Rendah,Layak
+c46e0598b9c56c91,May* S******,16–18 th,11,Laki-laki,IPA,75.8,77.1,4,1,1,Lengkap,4,D3/S1,Buruh Harian,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+4597f44828e2ec6b,Hen*** K********,16–18 th,10,Laki-laki,IPA,92.5,74.1,0,1,0,Cerai,1,SD,Petani,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Tidak Ada,0,0,0,Sedang,Perlu Ditinjau
+110d5120165da3f0,Har** S***,16–18 th,9,Perempuan,-,70.8,66.6,2,0,0,Cerai,1,D3/S1,Petani,2.5 - 5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,1,0,0,Sedang,Tidak Layak
+56d93b0edb50a2ec,Cit** P******,> 18 th,12,Laki-laki,IPS,64.1,100.0,3,0,0,Lengkap,0,SMP,Tidak Bekerja,> 5 Juta,Sedang (2–5 km),Semi Permanen,Wifi Rumah,0,0,0,Sedang,Perlu Ditinjau
+bc142d4aec1ad5bd,Ren* F*********,≤ 13 th,8,Perempuan,-,63.4,98.0,2,0,0,Lengkap,0,SD,Petani,2.5 - 5 Juta,Dekat (≤2 km),Semi Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+354252ab9622ba49,Rat** N*******,16–18 th,12,Perempuan,IPS,83.4,67.5,1,0,0,Lengkap,0,SMP,Tidak Bekerja,1 - 2.5 Juta,Dekat (≤2 km),Semi Permanen,Paket Data,0,1,1,Rendah,Layak
+2027a3c9501c4aa4,Don* K********,16–18 th,12,Laki-laki,Kejuruan,99.6,75.8,1,1,0,Lengkap,0,SMA/SMK,Petani,1 - 2.5 Juta,Dekat (≤2 km),Semi Permanen,Tidak Ada,0,0,0,Sedang,Perlu Ditinjau
+b421f705a30562bd,Eka P******,14–15 th,8,Laki-laki,-,55.3,88.6,2,0,0,Cerai,2,SMP,Tidak Bekerja,1 - 2.5 Juta,Sedang (2–5 km),Tidak Layak Huni,Paket Data,1,0,0,Sedang,Perlu Ditinjau
+c8e51d9a7d9b29dc,Hen*** P******,> 18 th,12,Perempuan,Kejuruan,56.8,81.8,3,0,0,Yatim,2,SMP,Pedagang,1 - 2.5 Juta,Jauh (5–10 km),Semi Permanen,Paket Data,1,0,0,Tinggi,Layak
+20fc05765fbb953c,Fan** L****,16–18 th,9,Laki-laki,-,70.3,61.1,1,0,0,Piatu,0,SD,Pedagang,2.5 - 5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Sedang,Layak
+d8f8da5400cc7a1f,Hen*** H******,16–18 th,10,Laki-laki,Kejuruan,77.2,72.4,3,1,0,Lengkap,3,SMP,Wiraswasta,2.5 - 5 Juta,Sangat Jauh (>10 km),Semi Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+9df4f6908fa5f6e3,Rin* L******,14–15 th,8,Perempuan,-,84.4,99.4,1,0,0,Lengkap,0,SMA/SMK,Karyawan Swasta,> 5 Juta,Dekat (≤2 km),Permanen,Tidak Ada,0,0,0,Rendah,Tidak Layak
+57fa007d9e3ffab0,Bag** W*****,16–18 th,11,Perempuan,IPS,58.7,78.4,3,0,1,Lengkap,1,SMA/SMK,Petani,> 5 Juta,Jauh (5–10 km),Semi Permanen,Wifi Rumah,0,0,0,Sedang,Perlu Ditinjau
+f68e4a4956729cc5,Shi*** H******,16–18 th,12,Perempuan,Kejuruan,58.8,82.8,3,1,0,Yatim,0,SMP,Pedagang,1 - 2.5 Juta,Sedang (2–5 km),Tidak Layak Huni,Tidak Ada,0,0,0,Tinggi,Sangat Layak
+4b293c19358b3868,Ton* S*******,14–15 th,8,Perempuan,-,72.4,71.6,1,1,0,Lengkap,1,SMA/SMK,Wiraswasta,2.5 - 5 Juta,Jauh (5–10 km),Semi Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+1ef2cb684a9034d0,Ren* W*****,≤ 13 th,7,Laki-laki,-,68.2,89.6,3,0,1,Lengkap,0,D3/S1,PNS/TNI/Polri,< 1 Juta,Dekat (≤2 km),Semi Permanen,Paket Data,0,0,0,Sedang,Layak
+2533627d525ed116,Shi*** S*****,14–15 th,7,Laki-laki,-,84.2,83.1,0,0,0,Cerai,1,D3/S1,Pedagang,2.5 - 5 Juta,Jauh (5–10 km),Permanen,Tidak Ada,0,0,0,Rendah,Tidak Layak
+531654a7120a82f6,Har** A*****,16–18 th,10,Perempuan,IPS,78.0,75.8,3,0,0,Cerai,1,SMP,Petani,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+45d19af1cad3d8f0,Raf* P******,14–15 th,9,Perempuan,-,77.5,67.7,1,0,1,Yatim,6,SMA/SMK,Tidak Bekerja,< 1 Juta,Dekat (≤2 km),Permanen,Paket Data,0,1,1,Tinggi,Sangat Layak
+4f92b16755ad06c1,Nov* H******,16–18 th,10,Laki-laki,IPA,70.7,100.0,0,0,0,Lengkap,0,SD,PNS/TNI/Polri,2.5 - 5 Juta,Sedang (2–5 km),Semi Permanen,Wifi Rumah,0,0,0,Rendah,Perlu Ditinjau
+17e0a320dfda748b,Shi*** L******,16–18 th,10,Perempuan,IPA,98.9,66.9,0,0,0,Cerai,0,SD,Pedagang,< 1 Juta,Sedang (2–5 km),Semi Permanen,Wifi Rumah,1,1,1,Tinggi,Sangat Layak
+5670e2a75f1983f4,Shi*** S******,16–18 th,10,Laki-laki,IPS,56.1,88.1,2,1,0,Yatim,0,SMP,Tidak Bekerja,< 1 Juta,Sedang (2–5 km),Semi Permanen,Tidak Ada,1,1,1,Tinggi,Sangat Layak
+d6b9869550959d9b,Har** P******,16–18 th,10,Laki-laki,IPS,84.1,59.1,1,1,0,Lengkap,1,D3/S1,Buruh Harian,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+5d2a86dd96055760,Ayu S***,16–18 th,11,Laki-laki,IPA,58.2,90.9,3,0,1,Lengkap,0,SMP,Petani,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Tidak Ada,0,1,1,Sedang,Layak
+a7f1a642032f06c0,Hen*** S******,16–18 th,11,Laki-laki,IPS,58.2,93.6,4,0,1,Lengkap,3,SD,Buruh Harian,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Wifi Rumah,0,0,0,Sedang,Layak
+64da00bdadf32633,And* H******,14–15 th,8,Laki-laki,-,65.0,97.7,2,0,0,Piatu,1,SD,PNS/TNI/Polri,< 1 Juta,Sedang (2–5 km),Permanen,Wifi Rumah,1,1,1,Sedang,Sangat Layak
+76847ad3cb43e5c1,Bag** H******,≤ 13 th,7,Laki-laki,-,91.7,82.3,0,0,0,Lengkap,1,D3/S1,Buruh Harian,1 - 2.5 Juta,Sangat Jauh (>10 km),Semi Permanen,Wifi Rumah,0,1,1,Sedang,Layak
+3a1118821e64eb34,Eka H******,16–18 th,10,Laki-laki,IPA,79.4,98.9,0,0,0,Lengkap,1,SMA/SMK,Meninggal,2.5 - 5 Juta,Jauh (5–10 km),Semi Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+853bc5cecd8d7c1a,Jok* S******,14–15 th,8,Perempuan,-,68.8,100.0,2,1,1,Lengkap,0,SMP,Petani,2.5 - 5 Juta,Sedang (2–5 km),Semi Permanen,Tidak Ada,0,0,0,Sedang,Perlu Ditinjau
+75a3bf95faa4c0e2,Ari* S******,≤ 13 th,7,Perempuan,-,77.3,80.1,0,0,0,Cerai,0,SMA/SMK,PNS/TNI/Polri,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+6d9ec7ded5f16d5e,Hen*** S*****,16–18 th,12,Perempuan,Kejuruan,75.0,80.2,1,1,0,Lengkap,1,SMA/SMK,Wiraswasta,> 5 Juta,Sedang (2–5 km),Tidak Layak Huni,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+a3c0b79ae49401da,Dia* P******,14–15 th,9,Perempuan,-,66.4,84.1,4,0,0,Lengkap,1,SMA/SMK,Karyawan Swasta,2.5 - 5 Juta,Sedang (2–5 km),Permanen,Tidak Ada,0,0,0,Rendah,Perlu Ditinjau
+8af225df4a0cb45b,Nis* A*****,16–18 th,11,Laki-laki,IPA,51.3,78.5,2,0,0,Lengkap,0,SMP,Pedagang,1 - 2.5 Juta,Dekat (≤2 km),Tidak Layak Huni,Paket Data,0,0,0,Sedang,Layak
+45c687817fe6d797,Tia** S******,> 18 th,12,Laki-laki,IPA,90.2,77.5,1,0,1,Piatu,0,D3/S1,Karyawan Swasta,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Wifi Rumah,0,0,0,Sedang,Layak
+ea4dabeba1c0de53,Eka S******,≤ 13 th,7,Perempuan,-,75.3,75.2,0,0,0,Lengkap,5,SMP,Buruh Harian,< 1 Juta,Dekat (≤2 km),Permanen,Tidak Ada,1,0,1,Sedang,Sangat Layak
+ffc434f2b31bd53d,Ton* S******,16–18 th,12,Laki-laki,Kejuruan,99.1,100.0,2,0,0,Lengkap,0,SMA/SMK,Wiraswasta,1 - 2.5 Juta,Jauh (5–10 km),Tidak Layak Huni,Paket Data,0,0,0,Rendah,Layak
+c6b59bf252576079,Jok* P******,14–15 th,9,Perempuan,-,84.6,93.9,3,0,0,Cerai,2,Tidak Sekolah,Buruh Harian,> 5 Juta,Sedang (2–5 km),Permanen,Wifi Rumah,0,0,0,Rendah,Tidak Layak
+f482bbcb4a5e4801,Cit** R*****,≤ 13 th,7,Laki-laki,-,79.8,77.4,2,0,0,Lengkap,2,SMP,Wiraswasta,2.5 - 5 Juta,Sedang (2–5 km),Semi Permanen,Wifi Rumah,0,0,0,Rendah,Perlu Ditinjau
+1ab0af63102065bf,Nis* S***,16–18 th,12,Perempuan,IPS,66.8,54.3,4,0,0,Piatu,1,SMP,Karyawan Swasta,> 5 Juta,Jauh (5–10 km),Semi Permanen,Paket Data,0,0,0,Tinggi,Layak
+dd195d84f094a423,Tia** K*****,16–18 th,11,Laki-laki,Kejuruan,58.1,67.5,3,0,0,Lengkap,0,SMA/SMK,Tidak Bekerja,1 - 2.5 Juta,Sedang (2–5 km),Tidak Layak Huni,Paket Data,0,0,1,Sedang,Sangat Layak
+e8c5965c3782ddc6,Nis* S******,16–18 th,11,Perempuan,IPA,67.9,89.1,3,0,0,Lengkap,0,SD,Buruh Harian,> 5 Juta,Dekat (≤2 km),Tidak Layak Huni,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+fe3277d96b1f868f,Ari* H******,14–15 th,8,Perempuan,-,56.6,60.5,4,1,0,Lengkap,2,D3/S1,Tidak Bekerja,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Wifi Rumah,0,0,1,Tinggi,Layak
+be147a0fe62906a3,Dim** S******,16–18 th,12,Perempuan,IPA,78.4,87.3,1,0,0,Lengkap,2,SMP,Karyawan Swasta,> 5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,1,0,1,Rendah,Perlu Ditinjau
+5ec275169f631cad,Ren*** S******,16–18 th,10,Laki-laki,IPA,96.0,72.8,0,0,0,Cerai,2,SMA/SMK,Wiraswasta,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Tidak Ada,0,0,0,Sedang,Perlu Ditinjau
+1d3b823fd9f9ec50,Ren*** P******,16–18 th,12,Perempuan,IPA,64.8,87.2,3,0,0,Lengkap,4,D3/S1,Pedagang,2.5 - 5 Juta,Dekat (≤2 km),Permanen,Paket Data,1,0,0,Rendah,Perlu Ditinjau
+302eb9f2692688bd,Har** S*******,≤ 13 th,7,Perempuan,-,87.3,84.9,1,1,0,Cerai,2,SMA/SMK,Petani,> 5 Juta,Sedang (2–5 km),Tidak Layak Huni,Paket Data,0,0,0,Sedang,Perlu Ditinjau
+f887436841f996d1,Ilh** S******,≤ 13 th,7,Perempuan,-,66.8,83.4,2,0,0,Lengkap,0,SMA/SMK,PNS/TNI/Polri,1 - 2.5 Juta,Sedang (2–5 km),Permanen,Wifi Rumah,1,1,1,Rendah,Layak
+46f34f35ec1aad12,Nan** U****,16–18 th,12,Perempuan,IPA,68.4,81.0,2,0,0,Lengkap,0,SMA/SMK,Karyawan Swasta,2.5 - 5 Juta,Dekat (≤2 km),Semi Permanen,Wifi Rumah,0,0,0,Rendah,Perlu Ditinjau
+77547b71720698da,Ari* S*********,14–15 th,9,Perempuan,-,56.8,81.5,3,0,1,Lengkap,3,SMP,Buruh Harian,> 5 Juta,Jauh (5–10 km),Semi Permanen,Wifi Rumah,0,0,0,Sedang,Perlu Ditinjau
+9196fb93b19dd333,Eka H******,16–18 th,11,Laki-laki,Kejuruan,44.3,80.7,4,0,0,Yatim Piatu,0,D3/S1,Karyawan Swasta,1 - 2.5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Tinggi,Sangat Layak
+1fb055d53b806f0e,Ilh** A*****,≤ 13 th,7,Perempuan,-,71.9,87.3,3,0,0,Lengkap,0,SMP,Tidak Bekerja,< 1 Juta,Sedang (2–5 km),Tidak Layak Huni,Paket Data,1,1,1,Sedang,Sangat Layak
+3fa30aec21f68068,Gal** H******,16–18 th,11,Perempuan,IPA,72.0,92.4,1,1,0,Lengkap,2,SMA/SMK,Petani,> 5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Rendah,Tidak Layak
+83fdfe0913cb0e56,Kur*** L******,≤ 13 th,7,Perempuan,-,85.0,66.9,1,0,0,Lengkap,1,SMA/SMK,Wiraswasta,1 - 2.5 Juta,Dekat (≤2 km),Semi Permanen,Paket Data,0,0,0,Rendah,Layak
+5dec2a2a701ee5b5,Gil*** S******,14–15 th,8,Laki-laki,-,86.1,83.8,2,0,0,Lengkap,4,SMP,Petani,1 - 2.5 Juta,Sedang (2–5 km),Tidak Layak Huni,Paket Data,0,0,0,Sedang,Layak
+122f87db9dda90c0,Teg** K*****,16–18 th,10,Laki-laki,IPS,84.3,85.2,3,0,0,Lengkap,2,SMP,Buruh Harian,> 5 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,0,0,0,Rendah,Perlu Ditinjau
+8b08e3fb5837d0f8,Agu* L****,≤ 13 th,7,Perempuan,-,58.2,88.9,5,0,0,Piatu,0,SMA/SMK,Wiraswasta,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Paket Data,0,0,0,Sedang,Layak
+0034cc9a93cd175e,Rin* S*******,16–18 th,11,Perempuan,Kejuruan,74.8,83.8,2,0,0,Lengkap,4,D3/S1,Buruh Harian,< 1 Juta,Sedang (2–5 km),Semi Permanen,Paket Data,1,0,1,Sedang,Sangat Layak
+a74f780e861f46b0,Tia** R*****,14–15 th,8,Laki-laki,-,92.3,76.5,1,0,0,Piatu,0,D3/S1,Tidak Bekerja,2.5 - 5 Juta,Sangat Jauh (>10 km),Permanen,Wifi Rumah,1,0,1,Sedang,Layak
+259530e9c8b92b74,Teg** S*********,≤ 13 th,7,Perempuan,-,76.6,86.3,4,0,0,Lengkap,1,SMA/SMK,Buruh Harian,< 1 Juta,Jauh (5–10 km),Permanen,Paket Data,0,0,1,Sedang,Sangat Layak
+3227c08ffdf18e20,Yul* S******,16–18 th,9,Laki-laki,-,97.0,87.0,0,0,0,Cerai,1,SMA/SMK,Karyawan Swasta,1 - 2.5 Juta,Jauh (5–10 km),Tidak Layak Huni,Paket Data,1,1,1,Sedang,Sangat Layak
+0950cb6db70013df,Agu* W*****,14–15 th,10,Laki-laki,Kejuruan,97.9,86.1,1,0,0,Piatu,0,D3/S1,Pedagang,2.5 - 5 Juta,Dekat (≤2 km),Semi Permanen,Wifi Rumah,0,0,0,Rendah,Layak
+f62098e5c9c4d2c4,Meg* W*****,≤ 13 th,7,Laki-laki,-,70.0,85.9,3,0,0,Lengkap,1,SD,Wiraswasta,1 - 2.5 Juta,Dekat (≤2 km),Tidak Layak Huni,Tidak Ada,0,1,1,Sedang,Sangat Layak
+93c28c0f89a2d881,Bud* S******,≤ 13 th,8,Laki-laki,-,66.9,94.0,4,0,0,Piatu,0,SMP,Tidak Bekerja,< 1 Juta,Sangat Jauh (>10 km),Semi Permanen,Tidak Ada,1,0,1,Tinggi,Sangat Layak
+9b40ae3e4baa6685,Ren* L******,14–15 th,9,Perempuan,-,64.6,59.9,1,0,0,Lengkap,1,SMA/SMK,Tidak Bekerja,> 5 Juta,Sangat Jauh (>10 km),Semi Permanen,Wifi Rumah,0,0,0,Sedang,Perlu Ditinjau
+54a29059d1d360eb,Ren* L****,> 18 th,12,Laki-laki,Kejuruan,52.9,93.5,2,1,0,Piatu,1,D3/S1,Buruh Harian,1 - 2.5 Juta,Sangat Jauh (>10 km),Permanen,Wifi Rumah,0,0,0,Tinggi,Layak
+b77fe02cd134e711,Ren*** S******,14–15 th,8,Perempuan,-,65.6,89.5,2,0,0,Cerai,2,D3/S1,PNS/TNI/Polri,> 5 Juta,Sedang (2–5 km),Permanen,Paket Data,0,0,0,Rendah,Tidak Layak
+4f37d8fe9afefdc4,Dew* R*****,14–15 th,8,Perempuan,-,87.3,71.5,1,1,0,Lengkap,2,SMA/SMK,Buruh Harian,1 - 2.5 Juta,Dekat (≤2 km),Permanen,Wifi Rumah,0,0,0,Sedang,Perlu Ditinjau
